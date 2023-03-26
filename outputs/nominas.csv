@@ -1,0 +1,1201 @@
+id,full_name,MaleFemale,age,region,salary,commission,total_compensation,month,employee_type
+N-001,Claudia Flores,Masculino,56.9193,Chihuahua,23276.0519,3974.1791,27250.231,Enero,Becario
+N-002,Sofia Gonzalez,Masculino,58.6463,Veracruz,11437.6014,3139.9143,14577.5157,Enero,Becario
+N-003,Carlos Garcia,Femenino,45.856,Chihuahua,20693.1892,9617.4181,30310.607300000003,Enero,Por Hora
+N-004,Claudia Hernandez,Femenino,43.2589,Jalisco,13873.2031,8098.6474,21971.8505,Enero,Por Hora
+N-005,Daniela Hernandez,Masculino,64.478,Ciudad de México,15752.3786,8846.4788,24598.8574,Enero,Becario
+N-006,Mariana Perez,Femenino,46.4867,Jalisco,15655.8525,5721.1772,21377.0297,Enero,Becario
+N-007,Miguel Sanchez,Femenino,62.428,Veracruz,15076.3462,2707.5629,17783.9091,Enero,Becario
+N-008,Daniela Perez,Masculino,20.6808,Michoacán,18926.877,3999.898,22926.775,Enero,Becario
+N-009,Alejandro Garcia,Femenino,50.0879,Jalisco,14538.8016,2052.3574,16591.159,Enero,Por Hora
+N-010,Maria Lopez,Masculino,20.6221,Ciudad de México,23156.9156,2309.489,25466.4046,Enero,Por Hora
+N-011,Maria Ramirez,Femenino,53.9989,Guerrero,8169.5889,9313.9482,17483.5371,Enero,Por Hora
+N-012,Miguel Garcia,Femenino,51.2795,Sonora,23254.5446,8705.8612,31960.4058,Enero,Tiempo Completo
+N-013,Carlos Lopez,Femenino,44.1009,Veracruz,8565.5153,36.9949,8602.510199999999,Enero,Becario
+N-014,Daniela Hernandez,Femenino,25.0525,Chihuahua,18875.1932,3887.588,22762.7812,Enero,Becario
+N-015,Javier Martinez,Masculino,33.4159,Nuevo León,10477.0617,4238.7564,14715.8181,Enero,Becario
+N-016,Javier Ramirez,Masculino,18.8742,Jalisco,23575.5052,4585.5786,28161.0838,Enero,Becario
+N-017,Maria Garcia,Masculino,62.9619,Sonora,21964.8136,1321.8429,23286.6565,Enero,Tiempo Completo
+N-018,Alejandro Flores,Masculino,60.4688,Sonora,15902.394,7701.637,23604.031,Enero,Por Hora
+N-019,Daniela Lopez,Masculino,39.2223,Tamaulipas,13900.5358,8292.5589,22193.0947,Enero,Tiempo Completo
+N-020,Javier Ramirez,Femenino,36.6247,Sonora,10086.5367,4464.9822,14551.518900000001,Enero,Tiempo Completo
+N-021,Maria Garcia,Femenino,59.4314,Nuevo León,19149.5631,367.835,19517.3981,Enero,Por Hora
+N-022,Sofia Martinez,Masculino,51.5271,Ciudad de México,21002.2445,6472.1085,27474.353000000003,Enero,Becario
+N-023,Rodrigo Perez,Femenino,62.978,Tamaulipas,16965.3642,6621.1495,23586.5137,Enero,Por Hora
+N-024,Maria Garcia,Femenino,33.0799,Michoacán,5649.6455,1732.6254,7382.2708999999995,Enero,Tiempo Completo
+N-025,Miguel Perez,Masculino,28.4271,Jalisco,9351.5566,1189.4164,10540.973,Enero,Becario
+N-026,Claudia Ramirez,Masculino,30.6568,Ciudad de México,5331.2469,9825.8768,15157.1237,Enero,Por Hora
+N-027,Javier Flores,Femenino,36.2541,Jalisco,23326.7215,9529.3692,32856.0907,Enero,Tiempo Completo
+N-028,Miguel Garcia,Femenino,18.8092,Ciudad de México,18221.0628,7214.7372,25435.8,Enero,Becario
+N-029,Maria Rodriguez,Masculino,48.6142,Jalisco,15253.8322,171.7656,15425.597800000001,Enero,Por Hora
+N-030,Maria Rodriguez,Masculino,37.9478,Guerrero,22156.3709,9423.9197,31580.2906,Enero,Por Hora
+N-031,Rodrigo Gonzalez,Masculino,19.4113,Nuevo León,11304.545,5773.0133,17077.5583,Enero,Por Hora
+N-032,Mariana Hernandez,Masculino,22.575,Guerrero,10500.3858,9761.3992,20261.785,Enero,Becario
+N-033,Alejandro Sanchez,Femenino,29.5349,Puebla,16536.8516,152.9646,16689.8162,Enero,Tiempo Completo
+N-034,Sofia Hernandez,Femenino,18.1146,Puebla,12944.3197,1536.5068,14480.8265,Enero,Por Hora
+N-035,Sofia Lopez,Masculino,25.2188,Jalisco,6691.021,3604.639,10295.66,Enero,Por Hora
+N-036,Daniela Ramirez,Masculino,41.2912,Puebla,9605.2954,7449.6816,17054.977,Enero,Por Hora
+N-037,Sofia Lopez,Femenino,33.6451,Veracruz,10852.0288,662.629,11514.6578,Enero,Por Hora
+N-038,Daniela Ramirez,Femenino,19.4355,Ciudad de México,10228.1895,2190.1011,12418.2906,Enero,Tiempo Completo
+N-039,Daniela Ramirez,Masculino,38.3872,Sonora,18386.4745,7940.1796,26326.6541,Enero,Por Hora
+N-040,Javier Perez,Femenino,57.2123,Tamaulipas,18860.3466,4415.6405,23275.987100000002,Enero,Tiempo Completo
+N-041,Mariana Sanchez,Femenino,62.0094,Michoacán,10075.9505,8039.536,18115.4865,Enero,Tiempo Completo
+N-042,Miguel Ramirez,Masculino,32.8625,Sonora,8371.2321,7543.5838,15914.8159,Enero,Por Hora
+N-043,Maria Garcia,Masculino,19.0258,Michoacán,11389.289,4092.6223,15481.9113,Enero,Tiempo Completo
+N-044,Mariana Rodriguez,Femenino,35.4606,Sonora,19567.3377,8284.3264,27851.6641,Enero,Becario
+N-045,Maria Garcia,Masculino,20.7282,Tamaulipas,8758.7736,2718.6513,11477.4249,Enero,Por Hora
+N-046,Alejandro Gonzalez,Femenino,38.5249,Ciudad de México,5786.4897,8303.3534,14089.8431,Enero,Por Hora
+N-047,Daniela Ramirez,Masculino,64.7352,Sonora,15900.3589,7543.4656,23443.8245,Enero,Becario
+N-048,Mariana Lopez,Masculino,25.1403,Chihuahua,12005.3598,9841.9885,21847.348299999998,Enero,Por Hora
+N-049,Rodrigo Garcia,Masculino,51.942,Guerrero,18589.5642,326.1814,18915.745600000002,Enero,Por Hora
+N-050,Rodrigo Garcia,Femenino,39.3956,Michoacán,7141.4015,3131.4093,10272.8108,Enero,Becario
+N-051,Daniela Lopez,Masculino,46.6158,Veracruz,11796.1896,2895.4321,14691.6217,Enero,Becario
+N-052,Claudia Garcia,Masculino,35.7261,Chihuahua,9613.1059,9416.0607,19029.1666,Enero,Tiempo Completo
+N-053,Miguel Garcia,Masculino,33.8243,Puebla,15262.8156,2050.6849,17313.500500000002,Enero,Por Hora
+N-054,Claudia Garcia,Femenino,33.8007,Puebla,15467.1324,5789.7052,21256.8376,Enero,Tiempo Completo
+N-055,Claudia Hernandez,Masculino,41.9534,Jalisco,17291.0122,6939.7045,24230.7167,Enero,Tiempo Completo
+N-056,Daniela Ramirez,Femenino,39.494,Jalisco,11866.3021,567.1418,12433.4439,Enero,Becario
+N-057,Daniela Ramirez,Masculino,27.7028,Chihuahua,8544.1979,6456.6734,15000.871299999999,Enero,Becario
+N-058,Javier Martinez,Masculino,22.4951,Jalisco,21338.0254,7803.6109,29141.6363,Enero,Becario
+N-059,Miguel Rodriguez,Femenino,54.695,Michoacán,6656.286,2173.0597,8829.3457,Enero,Por Hora
+N-060,Carlos Perez,Femenino,29.4866,Chihuahua,18608.1169,3650.2821,22258.399,Enero,Tiempo Completo
+N-061,Daniela Rodriguez,Masculino,38.1344,Michoacán,11460.7181,1850.5673,13311.2854,Enero,Becario
+N-062,Sofia Garcia,Masculino,50.4983,Michoacán,11024.2694,2709.1486,13733.418,Enero,Becario
+N-063,Carlos Lopez,Femenino,20.3168,Nuevo León,9483.457,6008.6923,15492.149300000001,Enero,Becario
+N-064,Daniela Martinez,Masculino,64.3921,Puebla,7857.7688,5487.6442,13345.413,Enero,Por Hora
+N-065,Rodrigo Ramirez,Femenino,22.1196,Nuevo León,8076.2992,8519.7557,16596.0549,Enero,Tiempo Completo
+N-066,Mariana Lopez,Femenino,40.2191,Ciudad de México,18399.1767,3698.7861,22097.9628,Enero,Por Hora
+N-067,Rodrigo Martinez,Masculino,64.1618,Ciudad de México,8801.3895,8004.9349,16806.324399999998,Enero,Tiempo Completo
+N-068,Rodrigo Rodriguez,Femenino,31.3377,Nuevo León,24139.0952,5207.9676,29347.0628,Enero,Becario
+N-069,Alejandro Hernandez,Femenino,26.4654,Veracruz,8266.7846,632.858,8899.642600000001,Enero,Tiempo Completo
+N-070,Claudia Rodriguez,Masculino,27.6156,Michoacán,11686.6808,2670.1733,14356.8541,Enero,Por Hora
+N-071,Carlos Garcia,Femenino,55.0746,Tamaulipas,12054.5862,3058.592,15113.1782,Enero,Por Hora
+N-072,Claudia Flores,Femenino,20.6807,Michoacán,20143.9666,4174.6931,24318.6597,Enero,Tiempo Completo
+N-073,Carlos Ramirez,Masculino,60.9597,Jalisco,8074.4515,4899.2682,12973.719700000001,Enero,Becario
+N-074,Daniela Flores,Masculino,33.8294,Puebla,10437.7342,4742.0048,15179.739000000001,Enero,Tiempo Completo
+N-075,Miguel Rodriguez,Femenino,50.8755,Michoacán,6566.212,4518.5048,11084.7168,Enero,Becario
+N-076,Carlos Gonzalez,Femenino,42.8352,Sonora,5084.8946,6571.6133,11656.5079,Enero,Por Hora
+N-077,Sofia Hernandez,Masculino,61.4475,Chihuahua,24225.6039,2083.4825,26309.0864,Enero,Por Hora
+N-078,Claudia Flores,Femenino,55.9908,Michoacán,20598.5928,6855.7268,27454.3196,Enero,Tiempo Completo
+N-079,Mariana Ramirez,Femenino,39.3742,Michoacán,12801.3925,1209.3395,14010.732,Enero,Tiempo Completo
+N-080,Carlos Lopez,Masculino,58.0433,Tamaulipas,18140.224,8102.9692,26243.193199999998,Enero,Becario
+N-081,Rodrigo Lopez,Femenino,49.482,Tamaulipas,8719.8807,2242.5552,10962.4359,Enero,Becario
+N-082,Sofia Sanchez,Masculino,20.8351,Guerrero,23880.1831,6749.6305,30629.813599999998,Enero,Becario
+N-083,Claudia Martinez,Femenino,62.1239,Guerrero,19962.7424,6938.8917,26901.6341,Enero,Becario
+N-084,Rodrigo Rodriguez,Masculino,44.0755,Tamaulipas,14341.4862,479.5694,14821.0556,Enero,Por Hora
+N-085,Miguel Ramirez,Femenino,23.783,Jalisco,24962.9865,9200.0123,34162.9988,Enero,Por Hora
+N-086,Claudia Hernandez,Femenino,24.2792,Nuevo León,19992.095,6612.7037,26604.7987,Enero,Becario
+N-087,Daniela Flores,Femenino,55.2349,Puebla,17537.716,3991.5489,21529.264900000002,Enero,Becario
+N-088,Maria Garcia,Femenino,41.4432,Nuevo León,22812.2126,9781.6303,32593.8429,Enero,Por Hora
+N-089,Miguel Hernandez,Masculino,19.4306,Chihuahua,9243.8169,6577.1579,15820.9748,Enero,Tiempo Completo
+N-090,Mariana Garcia,Femenino,31.9628,Chihuahua,16779.1071,7886.3331,24665.4402,Enero,Tiempo Completo
+N-091,Sofia Martinez,Femenino,26.0684,Puebla,12807.3017,4202.4104,17009.7121,Enero,Becario
+N-092,Maria Perez,Femenino,53.7034,Chihuahua,10746.6075,9736.9245,20483.532,Enero,Por Hora
+N-093,Mariana Garcia,Masculino,26.1398,Sonora,22147.3116,3136.6748,25283.9864,Enero,Becario
+N-094,Rodrigo Rodriguez,Femenino,58.6321,Veracruz,5495.1795,4412.2533,9907.4328,Enero,Tiempo Completo
+N-095,Sofia Flores,Masculino,35.0346,Guerrero,24285.1333,168.1774,24453.3107,Enero,Becario
+N-096,Rodrigo Flores,Femenino,58.5239,Sonora,11188.2797,63.8477,11252.1274,Enero,Por Hora
+N-097,Claudia Rodriguez,Masculino,23.6938,Guerrero,12387.0952,9212.3139,21599.409099999997,Enero,Becario
+N-098,Carlos Flores,Masculino,25.2232,Puebla,19684.9006,4484.3677,24169.2683,Enero,Por Hora
+N-099,Carlos Ramirez,Femenino,23.7551,Puebla,22633.0297,5199.3827,27832.4124,Enero,Tiempo Completo
+N-100,Maria Perez,Masculino,48.8594,Michoacán,19730.6109,6885.012,26615.6229,Enero,Por Hora
+N-101,Alejandro Martinez,Masculino,58.1214,Tamaulipas,18249.5794,8608.6779,26858.257299999997,Febrero,Por Hora
+N-102,Alejandro Martinez,Masculino,28.3116,Guerrero,21553.0105,522.818,22075.8285,Febrero,Tiempo Completo
+N-103,Javier Rodriguez,Masculino,49.5604,Guerrero,10419.8087,9936.3496,20356.1583,Febrero,Becario
+N-104,Claudia Martinez,Masculino,46.4368,Veracruz,22850.5455,3599.8661,26450.4116,Febrero,Por Hora
+N-105,Daniela Ramirez,Femenino,36.8278,Nuevo León,20552.3318,1443.6536,21995.9854,Febrero,Tiempo Completo
+N-106,Rodrigo Ramirez,Femenino,46.0541,Tamaulipas,7346.9731,7012.2331,14359.2062,Febrero,Becario
+N-107,Javier Hernandez,Femenino,53.9813,Nuevo León,16536.6063,2504.9035,19041.5098,Febrero,Tiempo Completo
+N-108,Rodrigo Perez,Masculino,26.3048,Michoacán,23206.051,3938.0629,27144.1139,Febrero,Becario
+N-109,Javier Ramirez,Masculino,49.2371,Michoacán,24283.3803,7107.3503,31390.730600000003,Febrero,Tiempo Completo
+N-110,Miguel Ramirez,Masculino,22.774,Sonora,5836.4237,918.6127,6755.0364,Febrero,Becario
+N-111,Javier Flores,Femenino,45.5292,Michoacán,24506.9625,6650.9962,31157.958700000003,Febrero,Por Hora
+N-112,Javier Ramirez,Femenino,45.108,Tamaulipas,9241.9501,8829.0352,18070.9853,Febrero,Por Hora
+N-113,Rodrigo Martinez,Masculino,46.0822,Sonora,7039.4924,9060.9337,16100.4261,Febrero,Tiempo Completo
+N-114,Miguel Sanchez,Masculino,23.1971,Veracruz,17864.0488,4895.3683,22759.4171,Febrero,Tiempo Completo
+N-115,Mariana Perez,Femenino,40.0197,Nuevo León,21098.4894,9721.4901,30819.9795,Febrero,Por Hora
+N-116,Maria Perez,Masculino,36.2621,Ciudad de México,18781.8067,4755.4211,23537.2278,Febrero,Becario
+N-117,Javier Sanchez,Masculino,40.1602,Michoacán,6679.8147,4509.5081,11189.3228,Febrero,Becario
+N-118,Mariana Perez,Femenino,59.5953,Nuevo León,20665.1722,9186.1858,29851.358,Febrero,Por Hora
+N-119,Javier Gonzalez,Masculino,59.0815,Puebla,21078.1115,9717.692,30795.803499999998,Febrero,Por Hora
+N-120,Alejandro Martinez,Masculino,48.7777,Veracruz,15977.8154,4521.979,20499.7944,Febrero,Becario
+N-121,Miguel Perez,Masculino,29.8756,Tamaulipas,17789.414,5809.6727,23599.0867,Febrero,Becario
+N-122,Rodrigo Hernandez,Masculino,46.4412,Veracruz,14463.1341,4700.5156,19163.649699999998,Febrero,Becario
+N-123,Carlos Rodriguez,Masculino,55.9609,Ciudad de México,7952.6984,1626.3489,9579.0473,Febrero,Por Hora
+N-124,Alejandro Sanchez,Masculino,52.8003,Sonora,14097.5082,3100.0374,17197.5456,Febrero,Becario
+N-125,Javier Garcia,Masculino,51.3396,Ciudad de México,7416.6448,8113.2027,15529.8475,Febrero,Tiempo Completo
+N-126,Alejandro Martinez,Femenino,20.1963,Michoacán,17563.6807,3306.9179,20870.5986,Febrero,Becario
+N-127,Mariana Lopez,Femenino,20.8845,Chihuahua,20759.6089,6027.106,26786.7149,Febrero,Becario
+N-128,Sofia Perez,Femenino,64.6945,Ciudad de México,6728.0978,5222.2557,11950.3535,Febrero,Tiempo Completo
+N-129,Claudia Sanchez,Masculino,34.7407,Jalisco,5796.9621,5548.6904,11345.6525,Febrero,Becario
+N-130,Daniela Martinez,Masculino,23.8852,Sonora,13707.3817,5479.1503,19186.532,Febrero,Por Hora
+N-131,Javier Lopez,Femenino,45.2084,Ciudad de México,17674.3517,5837.3965,23511.748199999998,Febrero,Tiempo Completo
+N-132,Sofia Rodriguez,Masculino,29.5412,Sonora,17114.3233,8019.8218,25134.1451,Febrero,Tiempo Completo
+N-133,Maria Lopez,Masculino,31.6434,Jalisco,5293.7532,1887.6531,7181.406300000001,Febrero,Tiempo Completo
+N-134,Javier Perez,Femenino,51.5977,Nuevo León,15543.5188,2054.114,17597.6328,Febrero,Becario
+N-135,Javier Sanchez,Masculino,56.6493,Michoacán,20870.3784,2182.6316,23053.010000000002,Febrero,Por Hora
+N-136,Rodrigo Ramirez,Masculino,23.0486,Sonora,14023.9735,689.3265,14713.3,Febrero,Tiempo Completo
+N-137,Sofia Perez,Masculino,40.117,Veracruz,18007.6298,6501.8485,24509.4783,Febrero,Becario
+N-138,Mariana Lopez,Femenino,55.9716,Nuevo León,24948.0264,741.0187,25689.0451,Febrero,Por Hora
+N-139,Mariana Perez,Masculino,29.5739,Michoacán,10869.3294,5898.9192,16768.2486,Febrero,Tiempo Completo
+N-140,Sofia Flores,Femenino,34.1532,Jalisco,15183.394,6703.3822,21886.7762,Febrero,Tiempo Completo
+N-141,Carlos Martinez,Masculino,40.3049,Chihuahua,22706.2615,2760.5488,25466.8103,Febrero,Por Hora
+N-142,Daniela Perez,Femenino,57.2126,Nuevo León,7552.3752,3939.4857,11491.8609,Febrero,Tiempo Completo
+N-143,Rodrigo Lopez,Masculino,61.633,Nuevo León,12650.4451,6752.3519,19402.797,Febrero,Tiempo Completo
+N-144,Maria Sanchez,Masculino,53.5657,Jalisco,12507.71,5312.2199,17819.9299,Febrero,Por Hora
+N-145,Alejandro Flores,Femenino,51.8173,Nuevo León,16111.9238,3736.2331,19848.1569,Febrero,Por Hora
+N-146,Sofia Rodriguez,Femenino,45.6205,Jalisco,6371.6,4859.7543,11231.354299999999,Febrero,Becario
+N-147,Miguel Martinez,Femenino,64.5439,Jalisco,20265.8046,4174.3399,24440.1445,Febrero,Becario
+N-148,Maria Sanchez,Masculino,50.0202,Tamaulipas,5216.3091,5113.0492,10329.3583,Febrero,Tiempo Completo
+N-149,Javier Rodriguez,Femenino,49.6532,Tamaulipas,23616.1295,9305.1852,32921.3147,Febrero,Por Hora
+N-150,Alejandro Rodriguez,Femenino,58.6681,Puebla,6219.8019,7593.4111,13813.213,Febrero,Tiempo Completo
+N-151,Daniela Perez,Masculino,60.3727,Nuevo León,16646.1823,6849.9283,23496.1106,Febrero,Por Hora
+N-152,Carlos Sanchez,Femenino,23.7148,Jalisco,14326.3273,2077.5855,16403.912800000002,Febrero,Por Hora
+N-153,Mariana Hernandez,Masculino,34.8221,Guerrero,10154.4017,2952.7869,13107.188600000001,Febrero,Por Hora
+N-154,Sofia Martinez,Masculino,52.8538,Veracruz,17277.2422,6081.5002,23358.742400000003,Febrero,Por Hora
+N-155,Rodrigo Gonzalez,Femenino,21.1529,Jalisco,15038.8494,3518.5435,18557.3929,Febrero,Por Hora
+N-156,Sofia Rodriguez,Femenino,64.9397,Guerrero,21132.0182,1976.4336,23108.4518,Febrero,Tiempo Completo
+N-157,Maria Flores,Masculino,39.0228,Puebla,13399.5926,8732.5757,22132.168299999998,Febrero,Tiempo Completo
+N-158,Daniela Ramirez,Masculino,63.3994,Nuevo León,12913.9757,4569.6682,17483.643900000003,Febrero,Por Hora
+N-159,Alejandro Martinez,Femenino,53.622,Guerrero,10417.3456,5410.5433,15827.888900000002,Febrero,Becario
+N-160,Rodrigo Martinez,Masculino,59.365,Puebla,13409.0969,9195.3245,22604.4214,Febrero,Becario
+N-161,Carlos Flores,Femenino,24.0627,Veracruz,10257.5213,2753.3047,13010.826000000001,Febrero,Becario
+N-162,Rodrigo Ramirez,Femenino,38.651,Nuevo León,24531.4111,250.6164,24782.0275,Febrero,Tiempo Completo
+N-163,Sofia Martinez,Femenino,30.3225,Chihuahua,6613.1346,9315.0099,15928.144499999999,Febrero,Tiempo Completo
+N-164,Daniela Sanchez,Masculino,26.5944,Puebla,17983.4363,27.3728,18010.809100000002,Febrero,Becario
+N-165,Rodrigo Perez,Femenino,42.0218,Veracruz,12268.9665,4376.7783,16645.7448,Febrero,Becario
+N-166,Rodrigo Sanchez,Femenino,35.8962,Michoacán,7114.9223,5307.0963,12422.0186,Febrero,Tiempo Completo
+N-167,Rodrigo Garcia,Femenino,22.5704,Chihuahua,10100.9201,8158.8925,18259.812599999997,Febrero,Por Hora
+N-168,Carlos Rodriguez,Masculino,63.2532,Guerrero,8105.4037,7437.8205,15543.2242,Febrero,Tiempo Completo
+N-169,Alejandro Garcia,Femenino,43.2151,Veracruz,18932.4391,2712.775,21645.2141,Febrero,Becario
+N-170,Javier Lopez,Masculino,46.0963,Sonora,16350.4187,4847.7617,21198.1804,Febrero,Tiempo Completo
+N-171,Sofia Hernandez,Masculino,53.2802,Nuevo León,22678.0261,513.339,23191.3651,Febrero,Tiempo Completo
+N-172,Mariana Perez,Masculino,33.4849,Guerrero,18185.8784,4886.4328,23072.3112,Febrero,Tiempo Completo
+N-173,Rodrigo Gonzalez,Masculino,61.2472,Guerrero,13916.09,5279.049,19195.139,Febrero,Tiempo Completo
+N-174,Alejandro Perez,Masculino,55.4904,Puebla,23909.453,527.4381,24436.8911,Febrero,Becario
+N-175,Mariana Ramirez,Femenino,46.4295,Jalisco,9380.0152,1500.6716,10880.6868,Febrero,Tiempo Completo
+N-176,Claudia Garcia,Masculino,18.2741,Tamaulipas,7103.5167,4181.9932,11285.509900000001,Febrero,Por Hora
+N-177,Mariana Garcia,Femenino,25.0383,Tamaulipas,12214.2718,985.6948,13199.9666,Febrero,Por Hora
+N-178,Sofia Garcia,Femenino,27.1115,Sonora,10585.0912,33.4473,10618.5385,Febrero,Becario
+N-179,Carlos Perez,Masculino,62.9561,Nuevo León,19274.9051,3528.8893,22803.7944,Febrero,Por Hora
+N-180,Rodrigo Rodriguez,Masculino,53.8607,Chihuahua,9257.2221,3661.4926,12918.7147,Febrero,Becario
+N-181,Alejandro Gonzalez,Masculino,20.6671,Chihuahua,6525.6296,5800.4705,12326.1001,Febrero,Por Hora
+N-182,Javier Martinez,Masculino,22.368,Jalisco,13826.5835,8643.4801,22470.0636,Febrero,Becario
+N-183,Daniela Martinez,Masculino,46.7169,Jalisco,24036.6362,5539.5492,29576.185400000002,Febrero,Por Hora
+N-184,Alejandro Hernandez,Femenino,55.6678,Sonora,24323.8529,4138.149,28462.001900000003,Febrero,Becario
+N-185,Mariana Perez,Femenino,29.1006,Sonora,6257.7988,9932.5142,16190.312999999998,Febrero,Por Hora
+N-186,Miguel Hernandez,Femenino,24.2166,Guerrero,19205.4367,2985.618,22191.054699999997,Febrero,Tiempo Completo
+N-187,Carlos Sanchez,Femenino,56.1043,Puebla,22504.5046,972.781,23477.2856,Febrero,Tiempo Completo
+N-188,Carlos Garcia,Masculino,49.9595,Sonora,12401.5651,6747.6384,19149.2035,Febrero,Becario
+N-189,Maria Ramirez,Masculino,54.5988,Sonora,8231.1868,6577.3345,14808.5213,Febrero,Tiempo Completo
+N-190,Claudia Rodriguez,Masculino,24.2035,Veracruz,13134.0167,8790.4652,21924.4819,Febrero,Por Hora
+N-191,Carlos Sanchez,Femenino,62.5198,Nuevo León,17890.6515,8159.6958,26050.3473,Febrero,Tiempo Completo
+N-192,Carlos Rodriguez,Femenino,64.279,Guerrero,8063.5485,5064.5003,13128.0488,Febrero,Por Hora
+N-193,Sofia Flores,Masculino,53.0023,Nuevo León,17030.0395,9868.7183,26898.7578,Febrero,Por Hora
+N-194,Carlos Perez,Masculino,55.5816,Ciudad de México,12551.0971,3916.1908,16467.2879,Febrero,Becario
+N-195,Miguel Sanchez,Femenino,25.579,Chihuahua,24613.1236,3314.8832,27928.0068,Febrero,Por Hora
+N-196,Mariana Rodriguez,Masculino,20.6191,Veracruz,13867.6423,2150.6848,16018.327099999999,Febrero,Tiempo Completo
+N-197,Rodrigo Lopez,Masculino,23.6908,Tamaulipas,17217.4843,385.349,17602.8333,Febrero,Tiempo Completo
+N-198,Javier Perez,Masculino,56.6072,Michoacán,8929.7005,5337.225,14266.925500000001,Febrero,Becario
+N-199,Miguel Martinez,Masculino,19.6108,Guerrero,23647.8691,6721.7615,30369.6306,Febrero,Becario
+N-200,Miguel Sanchez,Masculino,32.9912,Tamaulipas,21121.0206,2282.5573,23403.5779,Febrero,Becario
+N-201,Maria Gonzalez,Femenino,27.9783,Ciudad de México,21226.1958,741.5992,21967.795000000002,Marzo,Becario
+N-202,Miguel Gonzalez,Femenino,52.8583,Puebla,23707.2418,8063.9163,31771.1581,Marzo,Por Hora
+N-203,Carlos Flores,Femenino,27.4436,Ciudad de México,9162.7348,1746.8718,10909.6066,Marzo,Por Hora
+N-204,Miguel Lopez,Masculino,31.6806,Puebla,24949.4051,3106.4196,28055.8247,Marzo,Por Hora
+N-205,Miguel Garcia,Masculino,34.3929,Jalisco,20256.9089,8001.0876,28257.996499999997,Marzo,Por Hora
+N-206,Maria Sanchez,Masculino,23.2753,Veracruz,13781.697,2871.0404,16652.737399999998,Marzo,Becario
+N-207,Alejandro Sanchez,Masculino,43.4187,Jalisco,10149.0246,4073.2346,14222.2592,Marzo,Por Hora
+N-208,Daniela Martinez,Masculino,53.2245,Veracruz,19681.3555,8623.6206,28304.9761,Marzo,Tiempo Completo
+N-209,Rodrigo Flores,Masculino,52.3462,Jalisco,6228.7528,9557.0297,15785.7825,Marzo,Por Hora
+N-210,Sofia Martinez,Masculino,54.4902,Chihuahua,12434.6425,4294.2263,16728.8688,Marzo,Becario
+N-211,Mariana Garcia,Femenino,47.2858,Guerrero,9865.905,4876.5021,14742.4071,Marzo,Tiempo Completo
+N-212,Miguel Garcia,Femenino,41.3605,Nuevo León,5949.8854,8458.4772,14408.3626,Marzo,Por Hora
+N-213,Daniela Lopez,Femenino,62.2817,Sonora,21888.9619,1707.2838,23596.2457,Marzo,Por Hora
+N-214,Miguel Rodriguez,Femenino,24.2037,Tamaulipas,24923.9654,482.2585,25406.2239,Marzo,Por Hora
+N-215,Miguel Garcia,Femenino,28.2281,Chihuahua,15624.5641,6871.5825,22496.1466,Marzo,Por Hora
+N-216,Miguel Rodriguez,Masculino,59.3329,Chihuahua,12736.4858,4317.0484,17053.534200000002,Marzo,Por Hora
+N-217,Mariana Martinez,Masculino,18.5151,Veracruz,11897.7869,1471.7057,13369.4926,Marzo,Becario
+N-218,Carlos Sanchez,Masculino,22.7331,Guerrero,23348.4635,917.3896,24265.8531,Marzo,Por Hora
+N-219,Sofia Flores,Femenino,47.0583,Veracruz,22012.5733,2720.1738,24732.7471,Marzo,Por Hora
+N-220,Rodrigo Garcia,Femenino,56.7728,Tamaulipas,6133.7033,7207.6338,13341.3371,Marzo,Por Hora
+N-221,Alejandro Garcia,Masculino,38.826,Ciudad de México,18811.388,9617.7769,28429.1649,Marzo,Becario
+N-222,Carlos Hernandez,Femenino,26.4694,Jalisco,11182.5108,2322.0946,13504.6054,Marzo,Becario
+N-223,Sofia Gonzalez,Masculino,21.8846,Sonora,10664.1418,4444.0835,15108.225299999998,Marzo,Por Hora
+N-224,Carlos Rodriguez,Masculino,51.2899,Puebla,12068.2004,568.6536,12636.854,Marzo,Becario
+N-225,Claudia Sanchez,Masculino,64.0934,Ciudad de México,6662.6458,2805.4107,9468.0565,Marzo,Tiempo Completo
+N-226,Maria Hernandez,Femenino,28.7247,Veracruz,18986.732,6962.6013,25949.3333,Marzo,Por Hora
+N-227,Claudia Martinez,Femenino,33.3671,Guerrero,11603.7346,3971.7161,15575.4507,Marzo,Por Hora
+N-228,Carlos Garcia,Femenino,30.4644,Veracruz,22935.5392,6971.6751,29907.2143,Marzo,Por Hora
+N-229,Rodrigo Flores,Masculino,49.9173,Veracruz,17661.709,1071.0078,18732.7168,Marzo,Tiempo Completo
+N-230,Alejandro Hernandez,Femenino,45.6794,Tamaulipas,18636.0184,2730.0372,21366.0556,Marzo,Becario
+N-231,Sofia Ramirez,Femenino,25.9793,Veracruz,8402.3918,9156.4743,17558.8661,Marzo,Becario
+N-232,Miguel Flores,Masculino,27.204,Ciudad de México,9935.6639,5877.9826,15813.646499999999,Marzo,Becario
+N-233,Daniela Hernandez,Femenino,37.3379,Michoacán,11294.346,5754.3512,17048.6972,Marzo,Por Hora
+N-234,Rodrigo Perez,Masculino,64.4898,Veracruz,14256.9305,6807.4989,21064.4294,Marzo,Tiempo Completo
+N-235,Daniela Garcia,Femenino,53.6475,Nuevo León,24497.7121,8828.282,33325.994099999996,Marzo,Becario
+N-236,Carlos Ramirez,Masculino,30.1048,Michoacán,24241.4507,7332.0845,31573.535200000002,Marzo,Por Hora
+N-237,Miguel Flores,Femenino,36.087,Nuevo León,7350.9612,9447.7983,16798.7595,Marzo,Becario
+N-238,Carlos Gonzalez,Femenino,28.4681,Sonora,8249.2701,8188.3255,16437.5956,Marzo,Tiempo Completo
+N-239,Carlos Perez,Femenino,48.0618,Michoacán,19539.3469,4375.3788,23914.725700000003,Marzo,Becario
+N-240,Claudia Hernandez,Femenino,31.9282,Guerrero,23761.0634,5250.5174,29011.5808,Marzo,Becario
+N-241,Alejandro Ramirez,Femenino,35.3606,Jalisco,18873.6446,7685.7363,26559.3809,Marzo,Becario
+N-242,Alejandro Flores,Masculino,54.9671,Veracruz,16435.2785,6991.8042,23427.0827,Marzo,Tiempo Completo
+N-243,Maria Rodriguez,Masculino,34.2435,Veracruz,19895.6841,4309.0593,24204.7434,Marzo,Tiempo Completo
+N-244,Javier Garcia,Femenino,24.0391,Puebla,11729.8067,3025.9435,14755.750199999999,Marzo,Por Hora
+N-245,Mariana Gonzalez,Femenino,58.816,Guerrero,13116.094,1075.4309,14191.524899999999,Marzo,Tiempo Completo
+N-246,Rodrigo Hernandez,Femenino,19.0386,Nuevo León,20881.0972,9055.1938,29936.290999999997,Marzo,Por Hora
+N-247,Daniela Gonzalez,Femenino,27.2803,Veracruz,16827.9538,9158.9295,25986.8833,Marzo,Por Hora
+N-248,Claudia Flores,Masculino,25.7094,Nuevo León,23696.8656,33.731,23730.5966,Marzo,Por Hora
+N-249,Mariana Ramirez,Masculino,37.4306,Chihuahua,19281.1041,9474.6881,28755.7922,Marzo,Becario
+N-250,Sofia Rodriguez,Masculino,38.4628,Guerrero,18671.2778,5834.5452,24505.823,Marzo,Tiempo Completo
+N-251,Alejandro Lopez,Femenino,18.2508,Tamaulipas,5076.407,758.7411,5835.1481,Marzo,Tiempo Completo
+N-252,Maria Perez,Femenino,50.2356,Tamaulipas,16039.4022,349.9906,16389.3928,Marzo,Por Hora
+N-253,Javier Martinez,Femenino,54.4251,Michoacán,16121.6159,2339.0192,18460.6351,Marzo,Becario
+N-254,Claudia Lopez,Femenino,53.3063,Michoacán,16460.817,6885.5163,23346.3333,Marzo,Tiempo Completo
+N-255,Rodrigo Lopez,Masculino,33.3681,Chihuahua,13451.4106,2325.2538,15776.6644,Marzo,Becario
+N-256,Daniela Lopez,Femenino,37.9594,Nuevo León,19293.7422,5680.283,24974.0252,Marzo,Tiempo Completo
+N-257,Maria Perez,Masculino,26.3558,Nuevo León,22960.9326,4541.2851,27502.2177,Marzo,Por Hora
+N-258,Sofia Martinez,Masculino,52.8288,Guerrero,7328.8857,1959.1574,9288.043099999999,Marzo,Tiempo Completo
+N-259,Maria Garcia,Masculino,62.2489,Veracruz,17403.2447,8082.2792,25485.5239,Marzo,Becario
+N-260,Claudia Hernandez,Femenino,46.1003,Veracruz,5435.217,5323.0329,10758.249899999999,Marzo,Becario
+N-261,Sofia Hernandez,Masculino,51.2326,Chihuahua,19050.7749,2554.2259,21605.0008,Marzo,Por Hora
+N-262,Sofia Gonzalez,Masculino,26.2853,Jalisco,7957.7803,181.4069,8139.1872,Marzo,Tiempo Completo
+N-263,Rodrigo Lopez,Femenino,56.5754,Puebla,5109.5938,5159.5595,10269.1533,Marzo,Becario
+N-264,Maria Sanchez,Masculino,31.9234,Veracruz,9098.9174,5613.5987,14712.5161,Marzo,Tiempo Completo
+N-265,Alejandro Lopez,Femenino,31.6876,Nuevo León,9367.455,6761.8238,16129.2788,Marzo,Tiempo Completo
+N-266,Claudia Ramirez,Femenino,58.4194,Veracruz,23543.3593,6286.4682,29829.8275,Marzo,Becario
+N-267,Claudia Martinez,Femenino,34.6748,Veracruz,7244.8384,4390.6824,11635.520799999998,Marzo,Tiempo Completo
+N-268,Alejandro Hernandez,Masculino,54.1647,Jalisco,16698.3643,7978.9237,24677.288,Marzo,Por Hora
+N-269,Mariana Martinez,Femenino,18.9237,Jalisco,18882.7732,9399.2913,28282.0645,Marzo,Por Hora
+N-270,Claudia Hernandez,Masculino,58.4925,Chihuahua,8435.7188,6586.3721,15022.0909,Marzo,Tiempo Completo
+N-271,Claudia Lopez,Femenino,49.5517,Chihuahua,23875.3127,8508.8925,32384.205199999997,Marzo,Becario
+N-272,Claudia Perez,Femenino,57.0789,Sonora,13447.9895,3879.4893,17327.4788,Marzo,Becario
+N-273,Sofia Hernandez,Femenino,19.6305,Guerrero,20731.0399,5302.369,26033.4089,Marzo,Tiempo Completo
+N-274,Miguel Perez,Femenino,21.5032,Guerrero,5480.763,3223.0942,8703.8572,Marzo,Tiempo Completo
+N-275,Rodrigo Gonzalez,Masculino,55.5496,Chihuahua,22305.9582,5828.8237,28134.7819,Marzo,Becario
+N-276,Javier Perez,Femenino,45.5993,Tamaulipas,14254.1882,4356.4914,18610.6796,Marzo,Por Hora
+N-277,Claudia Ramirez,Masculino,46.1186,Veracruz,13821.4756,6642.4395,20463.9151,Marzo,Becario
+N-278,Mariana Ramirez,Masculino,61.1142,Puebla,16684.4975,7101.8294,23786.3269,Marzo,Tiempo Completo
+N-279,Alejandro Garcia,Masculino,34.5518,Sonora,8648.0897,4927.5295,13575.619200000001,Marzo,Tiempo Completo
+N-280,Claudia Rodriguez,Femenino,59.8974,Tamaulipas,14901.7996,6555.1227,21456.9223,Marzo,Por Hora
+N-281,Sofia Perez,Femenino,37.3491,Sonora,17331.9737,3975.18,21307.1537,Marzo,Becario
+N-282,Miguel Martinez,Masculino,33.1028,Veracruz,21889.0413,339.5195,22228.5608,Marzo,Por Hora
+N-283,Alejandro Perez,Femenino,53.4005,Chihuahua,5888.794,5772.4085,11661.2025,Marzo,Por Hora
+N-284,Carlos Hernandez,Masculino,61.1114,Michoacán,8283.0331,4816.1926,13099.2257,Marzo,Becario
+N-285,Maria Hernandez,Masculino,25.7565,Veracruz,18606.7417,3139.6434,21746.3851,Marzo,Becario
+N-286,Mariana Gonzalez,Femenino,33.6657,Jalisco,17615.6787,6152.5003,23768.179,Marzo,Tiempo Completo
+N-287,Alejandro Lopez,Femenino,56.837,Chihuahua,16186.5779,791.5391,16978.117,Marzo,Becario
+N-288,Maria Sanchez,Masculino,48.9415,Tamaulipas,5292.0823,4475.9138,9767.9961,Marzo,Becario
+N-289,Miguel Perez,Masculino,57.8047,Guerrero,6792.5097,603.901,7396.410699999999,Marzo,Por Hora
+N-290,Claudia Hernandez,Femenino,64.6971,Ciudad de México,10792.5386,174.2703,10966.8089,Marzo,Por Hora
+N-291,Maria Hernandez,Femenino,39.9968,Veracruz,14854.6651,5747.4693,20602.1344,Marzo,Tiempo Completo
+N-292,Carlos Gonzalez,Femenino,43.8838,Puebla,9841.4764,411.6255,10253.1019,Marzo,Tiempo Completo
+N-293,Javier Garcia,Femenino,48.4367,Guerrero,13567.936,1377.0807,14945.0167,Marzo,Por Hora
+N-294,Alejandro Hernandez,Masculino,32.875,Sonora,19419.2706,6304.8949,25724.1655,Marzo,Tiempo Completo
+N-295,Daniela Gonzalez,Masculino,40.0646,Chihuahua,8276.6344,2139.9622,10416.5966,Marzo,Becario
+N-296,Javier Sanchez,Masculino,47.9599,Michoacán,13325.3996,2369.8598,15695.2594,Marzo,Tiempo Completo
+N-297,Daniela Hernandez,Masculino,41.9825,Michoacán,21964.5514,1755.4927,23720.0441,Marzo,Becario
+N-298,Maria Martinez,Femenino,57.8708,Chihuahua,24440.3116,5027.5876,29467.8992,Marzo,Por Hora
+N-299,Rodrigo Hernandez,Masculino,37.7527,Jalisco,5508.9366,5113.3937,10622.3303,Marzo,Becario
+N-300,Mariana Garcia,Masculino,59.171,Michoacán,22226.8427,3357.2146,25584.0573,Marzo,Becario
+N-301,Miguel Ramirez,Masculino,56.2648,Veracruz,8954.7438,9494.2953,18449.0391,Abril,Tiempo Completo
+N-302,Alejandro Lopez,Masculino,43.9844,Veracruz,13910.1589,4733.8808,18644.0397,Abril,Por Hora
+N-303,Mariana Hernandez,Femenino,21.0276,Jalisco,18939.1796,5770.6143,24709.7939,Abril,Por Hora
+N-304,Rodrigo Ramirez,Masculino,55.3018,Puebla,15113.9664,4531.4937,19645.4601,Abril,Becario
+N-305,Mariana Perez,Femenino,22.606,Puebla,16000.4476,4885.178,20885.6256,Abril,Por Hora
+N-306,Miguel Lopez,Femenino,34.2309,Nuevo León,18057.9669,2541.2102,20599.1771,Abril,Por Hora
+N-307,Alejandro Gonzalez,Femenino,23.1507,Veracruz,6955.8481,8968.2501,15924.0982,Abril,Tiempo Completo
+N-308,Claudia Perez,Masculino,22.2628,Jalisco,14721.4174,5517.6762,20239.0936,Abril,Becario
+N-309,Daniela Gonzalez,Femenino,48.9874,Chihuahua,16970.3079,9964.6257,26934.9336,Abril,Tiempo Completo
+N-310,Sofia Rodriguez,Femenino,42.2291,Sonora,15582.2518,1172.9972,16755.249,Abril,Becario
+N-311,Mariana Perez,Femenino,30.843,Michoacán,6171.5502,9206.8529,15378.4031,Abril,Becario
+N-312,Rodrigo Sanchez,Masculino,49.3154,Guerrero,13829.6413,8610.5013,22440.1426,Abril,Becario
+N-313,Sofia Perez,Femenino,22.058,Puebla,24410.6204,3037.2169,27447.8373,Abril,Becario
+N-314,Mariana Rodriguez,Masculino,42.3893,Sonora,20911.6751,5254.7472,26166.4223,Abril,Por Hora
+N-315,Daniela Sanchez,Masculino,59.8093,Sonora,13040.5846,1468.7382,14509.3228,Abril,Tiempo Completo
+N-316,Rodrigo Hernandez,Femenino,45.9634,Nuevo León,8734.8752,5519.8046,14254.679800000002,Abril,Becario
+N-317,Javier Sanchez,Masculino,59.3596,Michoacán,23492.9479,7262.8171,30755.765,Abril,Por Hora
+N-318,Carlos Gonzalez,Masculino,53.3633,Veracruz,10696.4524,170.5112,10866.963600000001,Abril,Tiempo Completo
+N-319,Carlos Ramirez,Femenino,36.4917,Sonora,5135.6104,7040.5309,12176.1413,Abril,Por Hora
+N-320,Rodrigo Martinez,Femenino,37.3554,Tamaulipas,21116.6672,3423.4022,24540.0694,Abril,Becario
+N-321,Daniela Garcia,Masculino,18.8393,Michoacán,19441.3697,8321.94,27763.309699999998,Abril,Por Hora
+N-322,Sofia Flores,Femenino,27.7985,Nuevo León,11975.6898,6227.3998,18203.0896,Abril,Tiempo Completo
+N-323,Sofia Gonzalez,Femenino,48.3596,Ciudad de México,12290.0499,4969.5769,17259.6268,Abril,Becario
+N-324,Sofia Perez,Masculino,63.7571,Michoacán,5727.9142,6363.1245,12091.038700000001,Abril,Tiempo Completo
+N-325,Maria Garcia,Masculino,38.0537,Veracruz,8209.896,486.7118,8696.6078,Abril,Por Hora
+N-326,Daniela Gonzalez,Femenino,51.2227,Puebla,9626.2791,8416.8058,18043.0849,Abril,Becario
+N-327,Rodrigo Lopez,Femenino,34.8616,Nuevo León,20731.1413,5577.7304,26308.8717,Abril,Por Hora
+N-328,Daniela Sanchez,Femenino,18.8391,Chihuahua,8246.5749,2442.7146,10689.289499999999,Abril,Becario
+N-329,Claudia Perez,Masculino,53.1552,Sonora,19930.0835,9989.5589,29919.6424,Abril,Tiempo Completo
+N-330,Alejandro Lopez,Femenino,42.8931,Veracruz,19257.6601,6632.9787,25890.6388,Abril,Tiempo Completo
+N-331,Mariana Sanchez,Masculino,18.3621,Nuevo León,7595.4089,8345.0184,15940.427300000001,Abril,Becario
+N-332,Javier Garcia,Masculino,62.7056,Veracruz,11491.1223,4638.6146,16129.7369,Abril,Becario
+N-333,Daniela Sanchez,Masculino,45.2957,Tamaulipas,9434.7127,9074.6074,18509.3201,Abril,Tiempo Completo
+N-334,Sofia Gonzalez,Masculino,56.4974,Sonora,18747.5412,5652.0234,24399.564599999998,Abril,Becario
+N-335,Claudia Flores,Masculino,25.2305,Ciudad de México,22365.9967,1719.003,24084.9997,Abril,Becario
+N-336,Javier Rodriguez,Masculino,33.7212,Tamaulipas,16316.2393,676.5812,16992.820499999998,Abril,Por Hora
+N-337,Rodrigo Flores,Femenino,39.0988,Sonora,10188.8086,5771.525,15960.3336,Abril,Por Hora
+N-338,Alejandro Lopez,Femenino,59.0926,Michoacán,17129.5256,8988.4863,26118.0119,Abril,Tiempo Completo
+N-339,Javier Lopez,Masculino,45.0171,Ciudad de México,9771.2065,7162.2033,16933.4098,Abril,Becario
+N-340,Carlos Lopez,Masculino,45.68,Puebla,13595.4235,3600.6857,17196.1092,Abril,Becario
+N-341,Alejandro Ramirez,Masculino,31.5701,Puebla,20617.9465,5888.2978,26506.2443,Abril,Becario
+N-342,Carlos Perez,Masculino,27.4508,Jalisco,5390.2586,3523.7777,8914.0363,Abril,Tiempo Completo
+N-343,Alejandro Rodriguez,Masculino,40.8066,Veracruz,14321.397,2050.6624,16372.059400000002,Abril,Tiempo Completo
+N-344,Alejandro Perez,Masculino,43.3924,Michoacán,22433.3334,8676.3366,31109.67,Abril,Tiempo Completo
+N-345,Carlos Hernandez,Masculino,61.7658,Guerrero,18534.3559,269.5448,18803.9007,Abril,Por Hora
+N-346,Mariana Garcia,Masculino,60.5987,Ciudad de México,17558.85,358.6606,17917.510599999998,Abril,Tiempo Completo
+N-347,Carlos Gonzalez,Femenino,54.0639,Sonora,18497.289,27.2677,18524.5567,Abril,Becario
+N-348,Sofia Sanchez,Femenino,18.8476,Sonora,17402.4957,768.8596,18171.3553,Abril,Tiempo Completo
+N-349,Claudia Rodriguez,Masculino,34.0757,Ciudad de México,11275.412,4735.495,16010.907,Abril,Por Hora
+N-350,Daniela Ramirez,Masculino,36.4356,Puebla,18850.6297,8482.2114,27332.8411,Abril,Tiempo Completo
+N-351,Sofia Flores,Femenino,27.8033,Sonora,20004.1587,3796.759,23800.917699999998,Abril,Becario
+N-352,Daniela Martinez,Masculino,53.5464,Veracruz,22228.872,2009.1391,24238.0111,Abril,Por Hora
+N-353,Javier Gonzalez,Femenino,33.8566,Michoacán,18759.0095,5487.3825,24246.392,Abril,Becario
+N-354,Carlos Lopez,Femenino,52.0974,Ciudad de México,23316.9228,6624.4136,29941.3364,Abril,Tiempo Completo
+N-355,Daniela Sanchez,Femenino,27.923,Puebla,5022.1705,4660.9257,9683.0962,Abril,Por Hora
+N-356,Maria Ramirez,Femenino,50.431,Nuevo León,14083.6651,1356.4661,15440.1312,Abril,Becario
+N-357,Maria Martinez,Masculino,53.3075,Tamaulipas,14507.2411,9208.5743,23715.8154,Abril,Becario
+N-358,Carlos Rodriguez,Masculino,42.4867,Guerrero,22825.6395,7734.8976,30560.5371,Abril,Tiempo Completo
+N-359,Daniela Flores,Masculino,25.7687,Veracruz,6607.1075,6221.9926,12829.1001,Abril,Becario
+N-360,Alejandro Rodriguez,Masculino,53.8428,Ciudad de México,22336.8245,97.7572,22434.5817,Abril,Por Hora
+N-361,Rodrigo Flores,Femenino,35.5381,Sonora,24571.7831,8144.5937,32716.376800000002,Abril,Por Hora
+N-362,Carlos Lopez,Femenino,44.9987,Jalisco,11310.689,771.5066,12082.195600000001,Abril,Por Hora
+N-363,Carlos Gonzalez,Femenino,60.0766,Sonora,17277.1084,2974.916,20252.024400000002,Abril,Becario
+N-364,Claudia Hernandez,Femenino,59.628,Chihuahua,22596.8423,8063.1962,30660.038500000002,Abril,Becario
+N-365,Mariana Martinez,Femenino,33.237,Jalisco,14967.8445,6577.0248,21544.8693,Abril,Becario
+N-366,Maria Hernandez,Femenino,50.33,Guerrero,20762.2148,8436.2651,29198.479900000002,Abril,Becario
+N-367,Alejandro Sanchez,Masculino,51.4509,Tamaulipas,13700.0665,985.4228,14685.489300000001,Abril,Por Hora
+N-368,Sofia Gonzalez,Femenino,50.9402,Michoacán,20977.3328,117.6354,21094.9682,Abril,Por Hora
+N-369,Javier Garcia,Femenino,24.7674,Sonora,23942.0633,2309.006,26251.069300000003,Abril,Por Hora
+N-370,Javier Gonzalez,Masculino,38.2351,Guerrero,7301.4597,6092.0288,13393.4885,Abril,Por Hora
+N-371,Alejandro Perez,Femenino,63.2722,Puebla,12911.0471,9061.954,21973.0011,Abril,Becario
+N-372,Daniela Sanchez,Masculino,24.9366,Puebla,8065.5505,9682.1869,17747.7374,Abril,Becario
+N-373,Sofia Flores,Masculino,22.0896,Veracruz,19710.7184,2527.9855,22238.7039,Abril,Becario
+N-374,Maria Gonzalez,Masculino,38.0628,Michoacán,7564.705,9373.5667,16938.271699999998,Abril,Tiempo Completo
+N-375,Daniela Garcia,Femenino,57.5507,Veracruz,15546.7009,4403.6797,19950.3806,Abril,Por Hora
+N-376,Maria Gonzalez,Femenino,38.9309,Nuevo León,22350.2566,9904.0124,32254.269,Abril,Por Hora
+N-377,Maria Ramirez,Masculino,22.5659,Jalisco,7610.2587,9759.0159,17369.2746,Abril,Por Hora
+N-378,Daniela Garcia,Masculino,54.9599,Guerrero,21477.1518,7604.9543,29082.1061,Abril,Becario
+N-379,Mariana Flores,Femenino,50.4833,Sonora,10628.9467,3777.8233,14406.77,Abril,Becario
+N-380,Mariana Gonzalez,Femenino,60.3509,Tamaulipas,8646.3656,7276.6171,15922.9827,Abril,Tiempo Completo
+N-381,Miguel Sanchez,Femenino,58.7282,Ciudad de México,12572.4439,4030.0141,16602.458,Abril,Becario
+N-382,Sofia Gonzalez,Masculino,47.2419,Nuevo León,23020.0393,8571.3824,31591.4217,Abril,Por Hora
+N-383,Daniela Perez,Femenino,61.0781,Puebla,6188.6745,741.5825,6930.257,Abril,Tiempo Completo
+N-384,Maria Martinez,Masculino,30.9911,Tamaulipas,19866.2488,6466.2963,26332.545100000003,Abril,Por Hora
+N-385,Miguel Hernandez,Femenino,32.9498,Chihuahua,13867.5036,5856.3768,19723.880400000002,Abril,Becario
+N-386,Javier Ramirez,Masculino,29.1472,Puebla,24823.5913,9870.8112,34694.4025,Abril,Por Hora
+N-387,Rodrigo Hernandez,Femenino,64.024,Veracruz,20714.0921,4354.5205,25068.6126,Abril,Tiempo Completo
+N-388,Daniela Rodriguez,Femenino,64.1854,Chihuahua,17021.9074,806.6513,17828.5587,Abril,Tiempo Completo
+N-389,Javier Lopez,Femenino,58.1854,Guerrero,22072.3527,2368.6441,24440.9968,Abril,Por Hora
+N-390,Daniela Perez,Femenino,43.5658,Michoacán,5674.6592,3969.4986,9644.1578,Abril,Por Hora
+N-391,Claudia Lopez,Femenino,23.2869,Jalisco,23137.9944,6207.076,29345.0704,Abril,Becario
+N-392,Daniela Perez,Masculino,25.2024,Michoacán,5741.8154,8817.3515,14559.1669,Abril,Becario
+N-393,Mariana Hernandez,Masculino,50.7184,Tamaulipas,12386.3336,5400.516,17786.8496,Abril,Por Hora
+N-394,Claudia Rodriguez,Masculino,33.8855,Veracruz,20866.5896,874.1714,21740.761,Abril,Becario
+N-395,Miguel Perez,Femenino,37.8161,Tamaulipas,24695.2495,2836.3561,27531.605600000003,Abril,Tiempo Completo
+N-396,Alejandro Perez,Femenino,36.5348,Chihuahua,17059.4832,4121.5883,21181.0715,Abril,Becario
+N-397,Miguel Garcia,Masculino,37.8397,Jalisco,18084.77,1311.8642,19396.6342,Abril,Por Hora
+N-398,Carlos Martinez,Femenino,54.8914,Nuevo León,5035.1378,6512.0773,11547.215100000001,Abril,Becario
+N-399,Rodrigo Sanchez,Masculino,51.6291,Ciudad de México,15301.144,4407.5774,19708.721400000002,Abril,Por Hora
+N-400,Javier Martinez,Femenino,58.1906,Ciudad de México,9855.7516,6857.8365,16713.5881,Abril,Por Hora
+N-401,Sofia Rodriguez,Masculino,34.268,Sonora,9708.606,4647.501,14356.107,Mayo,Por Hora
+N-402,Daniela Sanchez,Masculino,23.5568,Jalisco,15256.0323,1640.0379,16896.070200000002,Mayo,Becario
+N-403,Maria Lopez,Femenino,47.799,Ciudad de México,14871.1626,9599.2677,24470.4303,Mayo,Tiempo Completo
+N-404,Claudia Flores,Femenino,31.0699,Ciudad de México,9525.6892,9535.2242,19060.9134,Mayo,Tiempo Completo
+N-405,Alejandro Garcia,Femenino,23.0543,Chihuahua,10758.6075,4938.1314,15696.7389,Mayo,Por Hora
+N-406,Rodrigo Hernandez,Masculino,39.1133,Tamaulipas,19298.2015,2406.7517,21704.9532,Mayo,Por Hora
+N-407,Javier Garcia,Femenino,19.5061,Jalisco,21808.2965,3868.7888,25677.0853,Mayo,Por Hora
+N-408,Maria Garcia,Femenino,25.4998,Veracruz,17805.8068,85.5373,17891.3441,Mayo,Por Hora
+N-409,Mariana Lopez,Masculino,57.9365,Nuevo León,14531.6279,7974.2782,22505.9061,Mayo,Becario
+N-410,Carlos Hernandez,Masculino,51.0179,Sonora,16921.9777,411.9424,17333.9201,Mayo,Por Hora
+N-411,Mariana Ramirez,Masculino,48.4299,Sonora,18827.4744,3666.7273,22494.201699999998,Mayo,Tiempo Completo
+N-412,Alejandro Garcia,Masculino,60.0737,Ciudad de México,10821.4412,3510.941,14332.3822,Mayo,Becario
+N-413,Rodrigo Martinez,Masculino,26.8227,Ciudad de México,23195.9445,7385.0913,30581.0358,Mayo,Por Hora
+N-414,Claudia Garcia,Femenino,40.0191,Ciudad de México,22722.0479,3696.716,26418.7639,Mayo,Por Hora
+N-415,Alejandro Gonzalez,Masculino,22.0361,Puebla,24581.7628,4040.7454,28622.5082,Mayo,Becario
+N-416,Rodrigo Perez,Femenino,46.0926,Veracruz,24900.6617,1788.0707,26688.7324,Mayo,Tiempo Completo
+N-417,Maria Rodriguez,Masculino,41.0811,Chihuahua,20724.6551,6946.8444,27671.499499999998,Mayo,Por Hora
+N-418,Mariana Martinez,Masculino,45.7395,Nuevo León,7466.1587,1034.0005,8500.1592,Mayo,Tiempo Completo
+N-419,Miguel Martinez,Femenino,29.4188,Guerrero,15760.1953,3310.9651,19071.1604,Mayo,Por Hora
+N-420,Alejandro Flores,Masculino,29.2946,Jalisco,5216.4493,5865.0063,11081.455600000001,Mayo,Becario
+N-421,Miguel Gonzalez,Femenino,50.0181,Michoacán,13099.4266,3549.9066,16649.3332,Mayo,Tiempo Completo
+N-422,Alejandro Lopez,Femenino,21.8682,Michoacán,24082.6775,8053.5399,32136.2174,Mayo,Tiempo Completo
+N-423,Carlos Rodriguez,Femenino,59.1327,Chihuahua,16025.7395,5561.5072,21587.2467,Mayo,Por Hora
+N-424,Rodrigo Ramirez,Masculino,36.6448,Sonora,6181.9823,1268.7861,7450.7684,Mayo,Tiempo Completo
+N-425,Carlos Gonzalez,Femenino,57.8164,Puebla,18707.4247,6025.3956,24732.8203,Mayo,Becario
+N-426,Daniela Gonzalez,Femenino,59.5016,Jalisco,20642.9192,559.6935,21202.6127,Mayo,Tiempo Completo
+N-427,Maria Martinez,Masculino,41.961,Chihuahua,14051.3729,4973.1122,19024.485099999998,Mayo,Por Hora
+N-428,Carlos Perez,Masculino,35.7779,Puebla,14730.4142,1000.8657,15731.2799,Mayo,Becario
+N-429,Maria Ramirez,Femenino,43.1719,Veracruz,23783.0333,782.619,24565.652299999998,Mayo,Tiempo Completo
+N-430,Javier Hernandez,Masculino,29.5319,Ciudad de México,13805.7375,1016.0118,14821.7493,Mayo,Tiempo Completo
+N-431,Mariana Rodriguez,Femenino,23.8267,Ciudad de México,24059.985,8673.8426,32733.8276,Mayo,Por Hora
+N-432,Carlos Flores,Masculino,62.5977,Puebla,13579.4421,4353.6043,17933.0464,Mayo,Por Hora
+N-433,Maria Martinez,Femenino,39.598,Ciudad de México,11181.5375,996.4674,12178.0049,Mayo,Tiempo Completo
+N-434,Rodrigo Perez,Masculino,29.411,Veracruz,19172.8325,5977.943,25150.7755,Mayo,Por Hora
+N-435,Claudia Garcia,Masculino,34.8901,Puebla,5685.5032,5409.1439,11094.6471,Mayo,Por Hora
+N-436,Sofia Sanchez,Femenino,29.3046,Puebla,21913.5353,97.4665,22011.0018,Mayo,Tiempo Completo
+N-437,Javier Lopez,Femenino,44.9729,Tamaulipas,6182.9942,427.6541,6610.6483,Mayo,Tiempo Completo
+N-438,Miguel Gonzalez,Masculino,26.0106,Puebla,24692.0234,2077.6714,26769.694799999997,Mayo,Por Hora
+N-439,Javier Ramirez,Femenino,43.3069,Guerrero,10483.4577,9703.6342,20187.0919,Mayo,Por Hora
+N-440,Rodrigo Gonzalez,Masculino,51.7896,Guerrero,24696.2558,4914.131,29610.3868,Mayo,Por Hora
+N-441,Mariana Lopez,Femenino,29.7697,Sonora,12134.2921,690.4296,12824.7217,Mayo,Becario
+N-442,Maria Hernandez,Masculino,40.5348,Chihuahua,24590.7316,8195.171,32785.9026,Mayo,Becario
+N-443,Claudia Perez,Femenino,53.2531,Sonora,18681.9145,7424.2041,26106.118599999998,Mayo,Por Hora
+N-444,Mariana Garcia,Femenino,41.9262,Michoacán,20999.2409,604.4258,21603.6667,Mayo,Por Hora
+N-445,Maria Perez,Femenino,26.6857,Puebla,11084.8661,5939.8456,17024.7117,Mayo,Becario
+N-446,Claudia Lopez,Masculino,27.2908,Ciudad de México,23650.8814,7009.294,30660.1754,Mayo,Tiempo Completo
+N-447,Daniela Sanchez,Masculino,49.6724,Jalisco,21054.256,8056.8182,29111.074200000003,Mayo,Becario
+N-448,Claudia Gonzalez,Femenino,36.9216,Sonora,13830.414,3472.6523,17303.066300000002,Mayo,Becario
+N-449,Claudia Gonzalez,Masculino,34.7411,Veracruz,7560.715,8401.8869,15962.6019,Mayo,Becario
+N-450,Javier Rodriguez,Femenino,29.1589,Chihuahua,11165.414,5854.4308,17019.8448,Mayo,Por Hora
+N-451,Maria Lopez,Masculino,63.2338,Nuevo León,18733.1102,920.1108,19653.220999999998,Mayo,Por Hora
+N-452,Miguel Rodriguez,Femenino,29.325,Veracruz,23482.4714,7914.3866,31396.858,Mayo,Por Hora
+N-453,Rodrigo Sanchez,Femenino,43.257,Michoacán,23201.028,7871.3311,31072.359099999998,Mayo,Tiempo Completo
+N-454,Javier Flores,Masculino,45.1646,Chihuahua,8431.4935,2741.3406,11172.8341,Mayo,Por Hora
+N-455,Miguel Lopez,Femenino,43.5536,Michoacán,22147.9699,2439.0349,24587.0048,Mayo,Becario
+N-456,Alejandro Perez,Masculino,19.4245,Nuevo León,18053.4728,9685.5854,27739.0582,Mayo,Por Hora
+N-457,Maria Sanchez,Femenino,63.2937,Jalisco,15331.0214,5629.6909,20960.7123,Mayo,Tiempo Completo
+N-458,Carlos Sanchez,Masculino,58.1247,Michoacán,9424.366,9992.5246,19416.8906,Mayo,Tiempo Completo
+N-459,Alejandro Flores,Masculino,39.2732,Guerrero,11551.4651,5746.3159,17297.781,Mayo,Tiempo Completo
+N-460,Miguel Gonzalez,Masculino,24.3769,Veracruz,9067.254,9891.6471,18958.901100000003,Mayo,Tiempo Completo
+N-461,Carlos Hernandez,Femenino,44.4058,Guerrero,12644.6836,3957.2121,16601.8957,Mayo,Tiempo Completo
+N-462,Alejandro Garcia,Masculino,57.1375,Veracruz,19396.0777,2340.7636,21736.8413,Mayo,Becario
+N-463,Claudia Perez,Femenino,38.1347,Guerrero,16258.6203,7825.3075,24083.9278,Mayo,Por Hora
+N-464,Carlos Martinez,Femenino,31.7283,Michoacán,16116.3443,1112.3453,17228.6896,Mayo,Por Hora
+N-465,Javier Martinez,Masculino,57.8322,Sonora,22451.4578,7124.7399,29576.1977,Mayo,Por Hora
+N-466,Carlos Martinez,Masculino,19.9368,Sonora,24244.1236,9977.7715,34221.8951,Mayo,Por Hora
+N-467,Miguel Sanchez,Masculino,29.4777,Guerrero,7063.5071,65.3096,7128.816699999999,Mayo,Por Hora
+N-468,Miguel Sanchez,Femenino,19.4398,Puebla,11413.3754,5734.9216,17148.297,Mayo,Por Hora
+N-469,Claudia Hernandez,Masculino,50.0578,Guerrero,7569.4424,2137.2772,9706.7196,Mayo,Becario
+N-470,Sofia Hernandez,Femenino,20.6875,Jalisco,15295.7058,6414.7748,21710.4806,Mayo,Tiempo Completo
+N-471,Maria Ramirez,Femenino,26.4464,Tamaulipas,22048.3194,7073.4139,29121.7333,Mayo,Becario
+N-472,Javier Ramirez,Femenino,57.2391,Guerrero,18329.2834,8034.4564,26363.7398,Mayo,Tiempo Completo
+N-473,Rodrigo Hernandez,Masculino,45.8974,Tamaulipas,18214.8568,1344.4848,19559.3416,Mayo,Por Hora
+N-474,Javier Perez,Femenino,21.8238,Ciudad de México,16053.7977,5715.5222,21769.3199,Mayo,Por Hora
+N-475,Claudia Sanchez,Masculino,43.3955,Jalisco,7720.5964,9866.9589,17587.5553,Mayo,Por Hora
+N-476,Miguel Martinez,Femenino,49.0247,Veracruz,17570.8594,8097.9839,25668.8433,Mayo,Becario
+N-477,Alejandro Rodriguez,Femenino,33.473,Chihuahua,6579.1792,7882.3374,14461.516599999999,Mayo,Becario
+N-478,Rodrigo Sanchez,Femenino,42.8351,Jalisco,24658.5874,9535.8376,34194.425,Mayo,Tiempo Completo
+N-479,Mariana Hernandez,Masculino,37.5946,Ciudad de México,20138.7473,5172.8228,25311.570099999997,Mayo,Becario
+N-480,Sofia Sanchez,Femenino,39.1337,Tamaulipas,21620.9598,9201.2533,30822.2131,Mayo,Por Hora
+N-481,Carlos Rodriguez,Femenino,43.2836,Veracruz,21834.6925,9183.6367,31018.3292,Mayo,Tiempo Completo
+N-482,Maria Garcia,Masculino,50.0274,Michoacán,24195.6541,2688.2288,26883.8829,Mayo,Por Hora
+N-483,Javier Martinez,Masculino,24.0986,Michoacán,16173.5766,1132.2031,17305.7797,Mayo,Tiempo Completo
+N-484,Maria Garcia,Femenino,31.1647,Puebla,16053.117,1257.4237,17310.5407,Mayo,Por Hora
+N-485,Javier Gonzalez,Masculino,25.1407,Jalisco,21943.4642,6173.2672,28116.731399999997,Mayo,Becario
+N-486,Maria Ramirez,Femenino,26.6401,Sonora,22344.1904,5424.6257,27768.8161,Mayo,Tiempo Completo
+N-487,Daniela Gonzalez,Masculino,21.3418,Chihuahua,10604.1405,5693.0,16297.1405,Mayo,Por Hora
+N-488,Maria Garcia,Femenino,23.1758,Ciudad de México,20910.8738,166.0616,21076.935400000002,Mayo,Por Hora
+N-489,Carlos Perez,Femenino,63.967,Chihuahua,7958.3916,1738.9329,9697.3245,Mayo,Por Hora
+N-490,Claudia Ramirez,Femenino,61.3149,Nuevo León,20221.5989,6116.5637,26338.1626,Mayo,Por Hora
+N-491,Daniela Hernandez,Masculino,45.197,Chihuahua,5954.4833,8097.8863,14052.3696,Mayo,Por Hora
+N-492,Sofia Lopez,Masculino,42.2736,Michoacán,13826.3694,2067.8049,15894.174299999999,Mayo,Tiempo Completo
+N-493,Sofia Perez,Femenino,26.2732,Ciudad de México,16258.3136,119.828,16378.141599999999,Mayo,Becario
+N-494,Sofia Martinez,Masculino,37.917,Nuevo León,20195.4196,8121.0042,28316.4238,Mayo,Por Hora
+N-495,Mariana Perez,Femenino,35.8235,Ciudad de México,15539.5656,656.5965,16196.1621,Mayo,Por Hora
+N-496,Carlos Hernandez,Femenino,34.1274,Guerrero,7136.0081,6478.1065,13614.1146,Mayo,Por Hora
+N-497,Javier Lopez,Masculino,53.9369,Veracruz,9470.5296,498.9465,9969.4761,Mayo,Becario
+N-498,Miguel Hernandez,Femenino,61.03,Tamaulipas,6759.005,4472.4546,11231.4596,Mayo,Becario
+N-499,Miguel Rodriguez,Masculino,18.7531,Puebla,22287.3816,7669.6994,29957.081000000002,Mayo,Por Hora
+N-500,Mariana Perez,Femenino,57.3411,Veracruz,10670.2028,6835.4788,17505.6816,Mayo,Tiempo Completo
+N-501,Carlos Perez,Femenino,22.4273,Jalisco,10559.9838,7150.0551,17710.0389,Junio,Por Hora
+N-502,Claudia Ramirez,Masculino,62.6881,Sonora,22169.6533,1909.108,24078.761300000002,Junio,Por Hora
+N-503,Claudia Perez,Masculino,46.563,Jalisco,18403.4609,8601.3059,27004.766799999998,Junio,Tiempo Completo
+N-504,Maria Lopez,Femenino,35.3759,Guerrero,16410.5092,2251.6437,18662.1529,Junio,Becario
+N-505,Javier Lopez,Femenino,19.8529,Nuevo León,20587.1269,2006.0127,22593.1396,Junio,Por Hora
+N-506,Carlos Lopez,Masculino,20.0721,Jalisco,22484.3957,7299.9872,29784.3829,Junio,Por Hora
+N-507,Maria Lopez,Masculino,38.3353,Tamaulipas,5603.4169,2132.3276,7735.744500000001,Junio,Becario
+N-508,Claudia Hernandez,Femenino,48.6658,Nuevo León,10566.5904,996.9824,11563.5728,Junio,Becario
+N-509,Miguel Gonzalez,Femenino,47.2409,Sonora,16113.3976,3417.2594,19530.657,Junio,Tiempo Completo
+N-510,Daniela Lopez,Masculino,62.5533,Sonora,14862.8184,260.7389,15123.5573,Junio,Tiempo Completo
+N-511,Maria Gonzalez,Femenino,53.7562,Puebla,6693.2068,5740.2572,12433.464,Junio,Tiempo Completo
+N-512,Claudia Ramirez,Femenino,27.8651,Guerrero,22982.5766,8398.5765,31381.1531,Junio,Tiempo Completo
+N-513,Maria Rodriguez,Femenino,25.3444,Nuevo León,9789.3192,3943.1848,13732.504,Junio,Por Hora
+N-514,Javier Ramirez,Femenino,62.1312,Puebla,19823.6418,1737.9391,21561.5809,Junio,Becario
+N-515,Claudia Perez,Femenino,19.85,Puebla,7918.1034,3823.4214,11741.5248,Junio,Por Hora
+N-516,Carlos Garcia,Femenino,57.8976,Michoacán,13168.7125,5434.8764,18603.5889,Junio,Por Hora
+N-517,Rodrigo Ramirez,Femenino,19.2275,Veracruz,22695.3442,123.5909,22818.9351,Junio,Tiempo Completo
+N-518,Sofia Martinez,Masculino,37.0822,Nuevo León,23608.5266,4874.3961,28482.922700000003,Junio,Becario
+N-519,Alejandro Ramirez,Femenino,29.6322,Tamaulipas,21166.7649,8123.8829,29290.6478,Junio,Becario
+N-520,Javier Lopez,Femenino,63.7745,Veracruz,5032.8017,3384.4427,8417.2444,Junio,Tiempo Completo
+N-521,Alejandro Flores,Masculino,50.7366,Jalisco,5887.2694,8294.6305,14181.8999,Junio,Tiempo Completo
+N-522,Claudia Rodriguez,Femenino,64.7104,Ciudad de México,8501.77,4.0953,8505.865300000001,Junio,Por Hora
+N-523,Miguel Lopez,Femenino,54.7826,Nuevo León,11346.6588,6558.6412,17905.3,Junio,Por Hora
+N-524,Rodrigo Lopez,Femenino,48.7299,Puebla,24420.8054,8438.1241,32858.9295,Junio,Becario
+N-525,Maria Perez,Femenino,63.4979,Jalisco,12870.2628,8619.7577,21490.0205,Junio,Por Hora
+N-526,Sofia Rodriguez,Femenino,56.3447,Jalisco,24490.197,4195.2859,28685.4829,Junio,Becario
+N-527,Sofia Flores,Masculino,64.1559,Ciudad de México,23445.1836,5056.0567,28501.2403,Junio,Por Hora
+N-528,Daniela Garcia,Femenino,29.9315,Puebla,9198.1652,4306.573,13504.7382,Junio,Becario
+N-529,Daniela Lopez,Femenino,34.6255,Veracruz,17459.98,929.3046,18389.2846,Junio,Por Hora
+N-530,Mariana Flores,Masculino,55.5937,Guerrero,19219.1729,3266.3209,22485.4938,Junio,Por Hora
+N-531,Claudia Hernandez,Femenino,54.7431,Guerrero,22176.8151,4208.5178,26385.3329,Junio,Por Hora
+N-532,Mariana Garcia,Femenino,21.4034,Nuevo León,22912.3116,1835.1577,24747.4693,Junio,Becario
+N-533,Miguel Gonzalez,Masculino,51.5437,Ciudad de México,24385.2148,2626.7914,27012.006200000003,Junio,Por Hora
+N-534,Carlos Martinez,Femenino,55.5199,Sonora,18286.7942,9329.8165,27616.6107,Junio,Tiempo Completo
+N-535,Sofia Sanchez,Masculino,34.7317,Jalisco,5890.7387,3127.5999,9018.3386,Junio,Tiempo Completo
+N-536,Carlos Hernandez,Femenino,26.8896,Puebla,13844.914,9823.5593,23668.4733,Junio,Por Hora
+N-537,Claudia Flores,Masculino,50.8804,Nuevo León,17697.6874,9230.2095,26927.8969,Junio,Tiempo Completo
+N-538,Alejandro Perez,Masculino,32.867,Veracruz,17767.8555,8039.3549,25807.210400000004,Junio,Becario
+N-539,Javier Garcia,Masculino,23.7808,Sonora,21556.0879,7920.1698,29476.2577,Junio,Tiempo Completo
+N-540,Daniela Garcia,Femenino,49.0455,Nuevo León,10146.4632,576.2117,10722.6749,Junio,Por Hora
+N-541,Javier Martinez,Femenino,27.7878,Nuevo León,12614.3777,7973.9133,20588.290999999997,Junio,Tiempo Completo
+N-542,Javier Martinez,Femenino,49.7041,Jalisco,13401.0415,5264.44,18665.481499999998,Junio,Por Hora
+N-543,Rodrigo Ramirez,Masculino,53.2187,Nuevo León,21771.4356,1750.1235,23521.559100000002,Junio,Tiempo Completo
+N-544,Miguel Gonzalez,Femenino,51.8354,Chihuahua,15104.4092,3917.1858,19021.595,Junio,Por Hora
+N-545,Sofia Garcia,Femenino,55.6407,Veracruz,20113.9415,2642.0576,22755.9991,Junio,Por Hora
+N-546,Maria Perez,Masculino,39.562,Puebla,5097.677,4200.6056,9298.282599999999,Junio,Por Hora
+N-547,Carlos Sanchez,Masculino,18.4707,Michoacán,24154.0352,3068.9463,27222.981499999998,Junio,Por Hora
+N-548,Carlos Martinez,Femenino,51.0231,Sonora,15608.9373,2266.9506,17875.8879,Junio,Por Hora
+N-549,Sofia Hernandez,Masculino,59.5763,Nuevo León,22024.3523,2009.6308,24033.983099999998,Junio,Por Hora
+N-550,Carlos Perez,Femenino,22.368,Veracruz,17845.4806,4211.4633,22056.9439,Junio,Tiempo Completo
+N-551,Mariana Hernandez,Femenino,44.4181,Nuevo León,24118.0636,1216.0662,25334.129800000002,Junio,Tiempo Completo
+N-552,Mariana Gonzalez,Masculino,49.5865,Sonora,15663.145,6923.9932,22587.1382,Junio,Becario
+N-553,Rodrigo Martinez,Masculino,53.0161,Ciudad de México,20444.2184,1507.8296,21952.048000000003,Junio,Por Hora
+N-554,Rodrigo Gonzalez,Masculino,44.8245,Jalisco,22499.4775,2629.536,25129.0135,Junio,Becario
+N-555,Maria Flores,Femenino,27.2135,Michoacán,12147.4622,1818.0771,13965.5393,Junio,Tiempo Completo
+N-556,Javier Rodriguez,Femenino,49.0099,Chihuahua,5662.9518,152.2169,5815.1687,Junio,Por Hora
+N-557,Sofia Lopez,Femenino,64.478,Michoacán,19789.7292,7793.4179,27583.147100000002,Junio,Por Hora
+N-558,Javier Flores,Femenino,58.9455,Veracruz,13649.1445,648.569,14297.7135,Junio,Por Hora
+N-559,Javier Flores,Femenino,28.9899,Jalisco,7335.2677,7587.4936,14922.7613,Junio,Tiempo Completo
+N-560,Javier Garcia,Masculino,57.4179,Jalisco,5132.7593,1173.7487,6306.508,Junio,Tiempo Completo
+N-561,Mariana Garcia,Masculino,42.6128,Puebla,11103.0275,5918.027,17021.0545,Junio,Becario
+N-562,Sofia Rodriguez,Masculino,26.4668,Veracruz,11240.897,4435.2698,15676.1668,Junio,Tiempo Completo
+N-563,Maria Lopez,Femenino,40.6322,Ciudad de México,6754.4077,2743.7914,9498.1991,Junio,Tiempo Completo
+N-564,Alejandro Gonzalez,Masculino,36.0021,Nuevo León,15696.8254,6258.4132,21955.2386,Junio,Por Hora
+N-565,Daniela Gonzalez,Femenino,55.7001,Puebla,7314.5088,7376.7802,14691.289,Junio,Tiempo Completo
+N-566,Mariana Ramirez,Masculino,50.8915,Ciudad de México,13344.0055,3829.7754,17173.780899999998,Junio,Por Hora
+N-567,Sofia Gonzalez,Femenino,64.7454,Veracruz,18959.45,5492.4779,24451.927900000002,Junio,Por Hora
+N-568,Mariana Garcia,Femenino,19.8641,Ciudad de México,21276.0562,8303.347,29579.4032,Junio,Becario
+N-569,Maria Hernandez,Femenino,41.2113,Guerrero,7610.887,2326.7989,9937.6859,Junio,Por Hora
+N-570,Claudia Perez,Masculino,47.7819,Nuevo León,9467.4344,2263.8336,11731.268,Junio,Tiempo Completo
+N-571,Alejandro Ramirez,Masculino,27.6144,Jalisco,14859.4839,8796.6302,23656.1141,Junio,Becario
+N-572,Javier Gonzalez,Masculino,62.4257,Nuevo León,21475.0539,5743.7399,27218.7938,Junio,Becario
+N-573,Rodrigo Perez,Masculino,26.9086,Nuevo León,15754.0488,1481.3286,17235.3774,Junio,Por Hora
+N-574,Daniela Hernandez,Femenino,54.9569,Michoacán,14545.7663,8732.6332,23278.3995,Junio,Becario
+N-575,Carlos Garcia,Masculino,18.123,Nuevo León,14133.6766,93.8108,14227.4874,Junio,Por Hora
+N-576,Mariana Gonzalez,Femenino,34.6292,Ciudad de México,19482.9143,406.3242,19889.2385,Junio,Becario
+N-577,Sofia Sanchez,Femenino,50.2709,Puebla,17651.4542,6123.2765,23774.7307,Junio,Por Hora
+N-578,Carlos Rodriguez,Masculino,33.9185,Nuevo León,6232.0287,2100.8596,8332.888299999999,Junio,Becario
+N-579,Maria Perez,Masculino,50.4628,Jalisco,6334.3179,375.7668,6710.0847,Junio,Tiempo Completo
+N-580,Miguel Martinez,Masculino,18.6235,Puebla,12884.8389,4822.7719,17707.610800000002,Junio,Becario
+N-581,Carlos Rodriguez,Masculino,28.9317,Tamaulipas,17391.0062,3582.3198,20973.326,Junio,Tiempo Completo
+N-582,Miguel Hernandez,Masculino,47.5761,Chihuahua,13549.8476,2086.203,15636.050599999999,Junio,Becario
+N-583,Miguel Martinez,Femenino,32.29,Sonora,17979.911,6428.0412,24407.9522,Junio,Por Hora
+N-584,Javier Flores,Masculino,29.5915,Sonora,7808.8871,5026.5098,12835.3969,Junio,Becario
+N-585,Sofia Gonzalez,Femenino,41.0443,Veracruz,17328.9595,3807.9117,21136.8712,Junio,Becario
+N-586,Miguel Rodriguez,Masculino,21.1064,Nuevo León,22674.0721,9034.3598,31708.431900000003,Junio,Por Hora
+N-587,Sofia Martinez,Masculino,56.4918,Chihuahua,15728.3375,1679.6389,17407.9764,Junio,Por Hora
+N-588,Carlos Ramirez,Femenino,24.5725,Veracruz,7443.4572,2150.4857,9593.9429,Junio,Tiempo Completo
+N-589,Miguel Lopez,Femenino,56.577,Michoacán,16403.0851,2252.5119,18655.597,Junio,Becario
+N-590,Mariana Hernandez,Femenino,32.2212,Puebla,16915.9186,6755.6386,23671.557200000003,Junio,Becario
+N-591,Javier Perez,Masculino,43.2372,Veracruz,14545.5724,7962.6743,22508.2467,Junio,Tiempo Completo
+N-592,Miguel Martinez,Masculino,31.7853,Jalisco,23221.4768,6498.2217,29719.6985,Junio,Becario
+N-593,Miguel Gonzalez,Masculino,34.2551,Veracruz,24878.3202,1421.8392,26300.159399999997,Junio,Tiempo Completo
+N-594,Alejandro Martinez,Masculino,24.0641,Chihuahua,13345.4915,8044.8202,21390.3117,Junio,Tiempo Completo
+N-595,Miguel Sanchez,Femenino,43.3239,Michoacán,18109.3243,4635.4681,22744.7924,Junio,Por Hora
+N-596,Carlos Flores,Masculino,42.4965,Ciudad de México,12405.512,8233.8342,20639.3462,Junio,Por Hora
+N-597,Daniela Garcia,Femenino,46.3334,Sonora,18694.9089,5936.8128,24631.7217,Junio,Por Hora
+N-598,Claudia Hernandez,Femenino,26.1631,Nuevo León,10153.7598,9795.3178,19949.0776,Junio,Tiempo Completo
+N-599,Javier Gonzalez,Masculino,42.2214,Puebla,11746.0448,2276.9165,14022.961299999999,Junio,Becario
+N-600,Maria Perez,Femenino,54.1684,Sonora,17570.1903,8186.0736,25756.263899999998,Junio,Becario
+N-601,Mariana Gonzalez,Femenino,55.8097,Jalisco,17646.3169,6767.7116,24414.0285,Julio,Becario
+N-602,Carlos Flores,Masculino,44.494,Chihuahua,23087.6138,8599.6136,31687.2274,Julio,Becario
+N-603,Javier Lopez,Femenino,52.5761,Guerrero,8836.0762,5948.9609,14785.0371,Julio,Por Hora
+N-604,Mariana Rodriguez,Femenino,41.7314,Jalisco,21386.1342,9938.0549,31324.1891,Julio,Por Hora
+N-605,Javier Garcia,Masculino,45.4816,Jalisco,22473.953,8393.0039,30866.9569,Julio,Becario
+N-606,Claudia Garcia,Masculino,53.216,Tamaulipas,8799.523,8621.7749,17421.297899999998,Julio,Tiempo Completo
+N-607,Claudia Perez,Masculino,46.4619,Nuevo León,5963.515,2037.3807,8000.8957,Julio,Becario
+N-608,Sofia Lopez,Masculino,20.7747,Sonora,23677.5054,7796.3698,31473.8752,Julio,Becario
+N-609,Claudia Sanchez,Femenino,46.0932,Sonora,23793.4325,1572.7806,25366.2131,Julio,Por Hora
+N-610,Javier Sanchez,Femenino,28.1185,Nuevo León,7323.9114,1285.8243,8609.7357,Julio,Becario
+N-611,Javier Sanchez,Femenino,39.1838,Tamaulipas,12949.642,6192.4364,19142.0784,Julio,Becario
+N-612,Maria Ramirez,Femenino,48.6917,Nuevo León,8466.864,6356.0299,14822.8939,Julio,Tiempo Completo
+N-613,Carlos Lopez,Femenino,57.2484,Michoacán,13460.1074,7956.0208,21416.1282,Julio,Por Hora
+N-614,Miguel Garcia,Masculino,59.954,Puebla,17294.3129,182.3124,17476.6253,Julio,Tiempo Completo
+N-615,Javier Garcia,Masculino,41.695,Chihuahua,23825.9579,7661.2096,31487.167500000003,Julio,Tiempo Completo
+N-616,Maria Rodriguez,Masculino,36.3244,Puebla,15028.8459,2328.8434,17357.689300000002,Julio,Becario
+N-617,Daniela Sanchez,Femenino,38.736,Jalisco,7607.3297,975.5165,8582.8462,Julio,Becario
+N-618,Claudia Hernandez,Masculino,51.6089,Ciudad de México,5153.6746,5265.2345,10418.9091,Julio,Por Hora
+N-619,Rodrigo Perez,Femenino,58.8312,Puebla,14480.4915,7345.8335,21826.325,Julio,Becario
+N-620,Claudia Gonzalez,Masculino,41.4353,Puebla,10100.8773,7538.6437,17639.521,Julio,Becario
+N-621,Mariana Perez,Masculino,36.511,Nuevo León,16837.7931,4021.3787,20859.1718,Julio,Por Hora
+N-622,Carlos Gonzalez,Masculino,56.6099,Ciudad de México,5466.1668,7770.0773,13236.2441,Julio,Tiempo Completo
+N-623,Daniela Hernandez,Femenino,53.2483,Nuevo León,14735.1181,5728.2538,20463.3719,Julio,Por Hora
+N-624,Miguel Rodriguez,Femenino,52.8057,Veracruz,9683.0529,6251.6879,15934.7408,Julio,Becario
+N-625,Maria Sanchez,Femenino,24.0152,Tamaulipas,19156.1125,5702.6508,24858.7633,Julio,Por Hora
+N-626,Miguel Ramirez,Femenino,22.4902,Michoacán,17472.3412,956.0879,18428.429099999998,Julio,Becario
+N-627,Alejandro Hernandez,Masculino,56.7057,Chihuahua,10072.374,474.953,10547.327,Julio,Becario
+N-628,Daniela Gonzalez,Masculino,20.5933,Guerrero,7770.8881,9949.7936,17720.6817,Julio,Por Hora
+N-629,Rodrigo Sanchez,Femenino,45.2122,Tamaulipas,9947.6188,1382.1786,11329.7974,Julio,Becario
+N-630,Javier Lopez,Masculino,24.8797,Jalisco,5187.4579,8436.3603,13623.818200000002,Julio,Por Hora
+N-631,Rodrigo Sanchez,Masculino,30.2971,Puebla,8851.6073,6359.7828,15211.3901,Julio,Becario
+N-632,Mariana Flores,Masculino,44.0172,Jalisco,24574.056,4133.9629,28708.018900000003,Julio,Becario
+N-633,Javier Sanchez,Femenino,18.1653,Nuevo León,9746.9554,9946.8251,19693.7805,Julio,Tiempo Completo
+N-634,Carlos Garcia,Masculino,34.6732,Puebla,10942.2303,4751.0271,15693.257399999999,Julio,Por Hora
+N-635,Daniela Garcia,Femenino,37.6534,Michoacán,11402.8121,367.0875,11769.899599999999,Julio,Por Hora
+N-636,Carlos Lopez,Femenino,22.7135,Guerrero,9785.1389,2766.9694,12552.1083,Julio,Por Hora
+N-637,Miguel Hernandez,Femenino,37.5204,Veracruz,7109.9972,4925.7297,12035.7269,Julio,Por Hora
+N-638,Maria Sanchez,Masculino,20.6434,Sonora,20038.4894,4456.7543,24495.2437,Julio,Por Hora
+N-639,Sofia Sanchez,Masculino,55.1769,Tamaulipas,19287.5201,6353.9092,25641.429300000003,Julio,Tiempo Completo
+N-640,Rodrigo Rodriguez,Femenino,46.5045,Jalisco,6366.9092,7455.7127,13822.6219,Julio,Por Hora
+N-641,Alejandro Hernandez,Masculino,51.8761,Nuevo León,12043.5575,4667.3343,16710.8918,Julio,Por Hora
+N-642,Javier Gonzalez,Femenino,33.7668,Chihuahua,21780.9312,7547.0114,29327.9426,Julio,Por Hora
+N-643,Rodrigo Gonzalez,Masculino,64.1671,Sonora,7969.2072,3136.9376,11106.1448,Julio,Tiempo Completo
+N-644,Sofia Martinez,Femenino,29.4345,Michoacán,13753.4981,6012.0731,19765.5712,Julio,Becario
+N-645,Rodrigo Martinez,Masculino,24.0192,Michoacán,7059.1823,6158.8936,13218.0759,Julio,Becario
+N-646,Mariana Lopez,Femenino,34.4173,Nuevo León,19413.4021,1637.9837,21051.3858,Julio,Por Hora
+N-647,Sofia Perez,Femenino,38.2414,Guerrero,10333.469,7777.5308,18110.999799999998,Julio,Tiempo Completo
+N-648,Maria Martinez,Masculino,58.1565,Chihuahua,5445.5484,2631.65,8077.198399999999,Julio,Por Hora
+N-649,Maria Hernandez,Femenino,19.0994,Guerrero,24448.7099,3981.8941,28430.604000000003,Julio,Por Hora
+N-650,Miguel Gonzalez,Masculino,43.6604,Nuevo León,21507.0929,3992.38,25499.4729,Julio,Tiempo Completo
+N-651,Javier Perez,Femenino,49.754,Chihuahua,14419.9937,3544.2188,17964.2125,Julio,Tiempo Completo
+N-652,Maria Flores,Femenino,34.209,Veracruz,16869.3155,5213.4191,22082.7346,Julio,Por Hora
+N-653,Daniela Martinez,Femenino,31.1727,Sonora,12698.8634,7136.998,19835.8614,Julio,Becario
+N-654,Claudia Hernandez,Femenino,47.658,Jalisco,9415.4201,9839.6642,19255.0843,Julio,Becario
+N-655,Carlos Ramirez,Masculino,25.6951,Guerrero,24002.7995,5077.6151,29080.4146,Julio,Becario
+N-656,Rodrigo Ramirez,Femenino,60.7789,Tamaulipas,23784.1169,4979.0069,28763.1238,Julio,Becario
+N-657,Daniela Lopez,Femenino,48.7442,Nuevo León,10276.1154,6392.6322,16668.747600000002,Julio,Becario
+N-658,Miguel Hernandez,Femenino,32.5295,Chihuahua,12665.9287,3609.0163,16274.945,Julio,Becario
+N-659,Javier Garcia,Femenino,38.4059,Tamaulipas,23071.5186,7165.8219,30237.3405,Julio,Tiempo Completo
+N-660,Mariana Rodriguez,Masculino,21.6745,Veracruz,22963.6336,238.8488,23202.4824,Julio,Tiempo Completo
+N-661,Sofia Rodriguez,Femenino,19.0036,Chihuahua,13657.8415,2859.364,16517.2055,Julio,Por Hora
+N-662,Miguel Perez,Femenino,51.5277,Michoacán,23031.3381,6093.5138,29124.8519,Julio,Por Hora
+N-663,Sofia Garcia,Masculino,57.4074,Puebla,5553.4598,446.9746,6000.4344,Julio,Tiempo Completo
+N-664,Sofia Lopez,Femenino,47.7541,Michoacán,20959.9968,9193.2569,30153.2537,Julio,Becario
+N-665,Daniela Hernandez,Femenino,63.071,Sonora,13799.3719,8176.8673,21976.2392,Julio,Becario
+N-666,Daniela Gonzalez,Femenino,38.2779,Tamaulipas,23701.5893,3371.097,27072.6863,Julio,Becario
+N-667,Javier Martinez,Femenino,24.601,Sonora,5210.6015,576.9565,5787.558,Julio,Tiempo Completo
+N-668,Mariana Ramirez,Masculino,24.8575,Puebla,24769.4318,2865.8183,27635.250099999997,Julio,Por Hora
+N-669,Alejandro Gonzalez,Masculino,53.5374,Michoacán,21955.4859,3990.0638,25945.5497,Julio,Por Hora
+N-670,Carlos Sanchez,Femenino,26.8787,Michoacán,23578.7855,7853.3551,31432.140600000002,Julio,Becario
+N-671,Claudia Rodriguez,Masculino,39.3743,Puebla,10734.3175,3092.6802,13826.9977,Julio,Becario
+N-672,Mariana Sanchez,Masculino,53.3429,Sonora,24919.6671,8457.8543,33377.5214,Julio,Tiempo Completo
+N-673,Maria Flores,Masculino,64.9454,Chihuahua,5063.0023,4150.4213,9213.4236,Julio,Por Hora
+N-674,Alejandro Ramirez,Masculino,49.5401,Puebla,19624.7074,8191.8888,27816.5962,Julio,Por Hora
+N-675,Mariana Rodriguez,Masculino,63.6113,Guerrero,19175.7699,3977.0293,23152.7992,Julio,Becario
+N-676,Miguel Lopez,Femenino,57.4211,Nuevo León,22931.0049,4769.1637,27700.1686,Julio,Tiempo Completo
+N-677,Daniela Rodriguez,Femenino,25.9966,Sonora,22140.9909,198.1929,22339.1838,Julio,Becario
+N-678,Claudia Rodriguez,Masculino,23.3861,Guerrero,15744.0924,9215.7357,24959.8281,Julio,Por Hora
+N-679,Carlos Lopez,Femenino,53.6641,Michoacán,17175.8447,8126.9131,25302.7578,Julio,Tiempo Completo
+N-680,Miguel Hernandez,Femenino,41.9335,Jalisco,9951.833,984.0669,10935.8999,Julio,Por Hora
+N-681,Sofia Sanchez,Masculino,42.4366,Veracruz,11716.9407,3505.8307,15222.7714,Julio,Por Hora
+N-682,Claudia Lopez,Masculino,28.6134,Puebla,20186.2062,6846.8648,27033.071,Julio,Becario
+N-683,Carlos Gonzalez,Masculino,43.2096,Nuevo León,19368.1369,9303.5019,28671.6388,Julio,Becario
+N-684,Carlos Flores,Femenino,55.0828,Nuevo León,12363.2875,5837.0383,18200.3258,Julio,Por Hora
+N-685,Claudia Ramirez,Masculino,55.4518,Puebla,8480.9278,9549.5555,18030.4833,Julio,Por Hora
+N-686,Alejandro Lopez,Masculino,43.0234,Tamaulipas,24173.3993,8039.3558,32212.755100000002,Julio,Becario
+N-687,Mariana Rodriguez,Femenino,45.8009,Guerrero,17896.4854,2707.399,20603.884400000003,Julio,Por Hora
+N-688,Daniela Perez,Masculino,52.0298,Nuevo León,23305.72,1161.6775,24467.397500000003,Julio,Becario
+N-689,Mariana Hernandez,Femenino,39.3553,Ciudad de México,20806.4325,4506.4063,25312.838799999998,Julio,Tiempo Completo
+N-690,Sofia Ramirez,Femenino,59.0543,Tamaulipas,19657.7848,8364.8962,28022.681,Julio,Por Hora
+N-691,Carlos Flores,Masculino,26.1498,Guerrero,22500.8017,2933.1412,25433.942900000002,Julio,Por Hora
+N-692,Daniela Rodriguez,Masculino,53.073,Tamaulipas,16890.9605,6978.9079,23869.8684,Julio,Becario
+N-693,Alejandro Flores,Masculino,54.81,Tamaulipas,19126.8262,7497.3344,26624.1606,Julio,Becario
+N-694,Maria Sanchez,Femenino,58.7899,Nuevo León,15802.4145,1868.5749,17670.989400000002,Julio,Becario
+N-695,Alejandro Rodriguez,Masculino,55.2044,Michoacán,8741.1341,3267.4579,12008.591999999999,Julio,Por Hora
+N-696,Mariana Gonzalez,Masculino,60.7345,Nuevo León,9040.0766,1033.8506,10073.9272,Julio,Tiempo Completo
+N-697,Javier Ramirez,Masculino,22.8254,Michoacán,13347.0987,7066.0806,20413.1793,Julio,Por Hora
+N-698,Rodrigo Hernandez,Masculino,30.5381,Chihuahua,10750.8251,7313.5409,18064.366,Julio,Por Hora
+N-699,Mariana Rodriguez,Femenino,57.6049,Jalisco,19947.7349,5748.1737,25695.9086,Julio,Tiempo Completo
+N-700,Maria Perez,Masculino,23.903,Tamaulipas,5136.8031,7832.2267,12969.0298,Julio,Tiempo Completo
+N-701,Maria Garcia,Masculino,44.7337,Puebla,16351.1705,526.7329,16877.9034,Agosto,Por Hora
+N-702,Rodrigo Perez,Femenino,61.6268,Sonora,6881.9329,2624.183,9506.1159,Agosto,Tiempo Completo
+N-703,Sofia Garcia,Femenino,36.2301,Ciudad de México,5815.0926,7256.4736,13071.566200000001,Agosto,Tiempo Completo
+N-704,Alejandro Lopez,Masculino,36.4964,Tamaulipas,21651.1134,4323.9904,25975.103799999997,Agosto,Becario
+N-705,Sofia Garcia,Femenino,23.2973,Puebla,6788.3509,6077.5905,12865.9414,Agosto,Por Hora
+N-706,Mariana Hernandez,Masculino,58.8375,Nuevo León,20771.7153,5042.5689,25814.284200000002,Agosto,Becario
+N-707,Mariana Martinez,Femenino,26.4778,Puebla,23336.277,8596.0583,31932.3353,Agosto,Becario
+N-708,Claudia Sanchez,Femenino,30.8288,Chihuahua,10273.7849,5081.3241,15355.109,Agosto,Becario
+N-709,Maria Perez,Masculino,37.7017,Sonora,14358.5659,8562.5678,22921.1337,Agosto,Becario
+N-710,Maria Flores,Femenino,47.3924,Sonora,16671.2123,3803.1533,20474.365599999997,Agosto,Por Hora
+N-711,Daniela Gonzalez,Masculino,35.0421,Chihuahua,6156.3636,8124.567,14280.9306,Agosto,Por Hora
+N-712,Miguel Sanchez,Femenino,27.8332,Guerrero,22611.5493,7554.285,30165.8343,Agosto,Becario
+N-713,Alejandro Flores,Femenino,29.7342,Guerrero,14933.2348,8523.2794,23456.514199999998,Agosto,Por Hora
+N-714,Sofia Flores,Femenino,18.8084,Veracruz,23395.9069,6795.9302,30191.8371,Agosto,Por Hora
+N-715,Claudia Hernandez,Femenino,34.537,Nuevo León,6696.908,2926.0124,9622.9204,Agosto,Por Hora
+N-716,Sofia Gonzalez,Masculino,27.6758,Puebla,23468.2857,8217.1691,31685.4548,Agosto,Por Hora
+N-717,Daniela Gonzalez,Masculino,37.8074,Ciudad de México,18539.5125,469.3828,19008.8953,Agosto,Tiempo Completo
+N-718,Rodrigo Rodriguez,Femenino,30.994,Chihuahua,12790.7687,1484.3237,14275.092400000001,Agosto,Por Hora
+N-719,Javier Garcia,Masculino,26.5604,Sonora,24453.4798,9139.1228,33592.6026,Agosto,Becario
+N-720,Sofia Gonzalez,Femenino,64.6178,Nuevo León,19408.1099,3738.9725,23147.0824,Agosto,Becario
+N-721,Miguel Rodriguez,Masculino,53.2638,Jalisco,6223.3698,8272.2288,14495.598600000001,Agosto,Por Hora
+N-722,Javier Garcia,Femenino,29.3933,Sonora,6520.1804,6314.1688,12834.3492,Agosto,Por Hora
+N-723,Claudia Gonzalez,Masculino,26.1629,Puebla,21231.3511,4842.2606,26073.6117,Agosto,Por Hora
+N-724,Miguel Sanchez,Masculino,22.6688,Sonora,13950.8928,7683.964,21634.8568,Agosto,Becario
+N-725,Maria Perez,Masculino,18.3466,Tamaulipas,5068.9955,3837.3058,8906.3013,Agosto,Por Hora
+N-726,Mariana Hernandez,Masculino,20.157,Tamaulipas,5766.3313,9695.5589,15461.8902,Agosto,Tiempo Completo
+N-727,Carlos Hernandez,Femenino,32.1968,Nuevo León,23588.0366,4902.2741,28490.310699999998,Agosto,Por Hora
+N-728,Mariana Perez,Femenino,40.4992,Chihuahua,9898.3235,1164.1526,11062.4761,Agosto,Becario
+N-729,Daniela Flores,Masculino,63.4907,Chihuahua,14040.379,9611.7013,23652.0803,Agosto,Por Hora
+N-730,Mariana Flores,Masculino,25.1715,Chihuahua,20323.6021,7501.4632,27825.065300000002,Agosto,Becario
+N-731,Daniela Sanchez,Femenino,41.1029,Puebla,6255.5391,7449.3778,13704.9169,Agosto,Becario
+N-732,Daniela Sanchez,Femenino,49.9995,Veracruz,21696.0972,1890.9453,23587.0425,Agosto,Becario
+N-733,Claudia Ramirez,Masculino,21.0436,Tamaulipas,24385.5789,931.4815,25317.060400000002,Agosto,Por Hora
+N-734,Daniela Rodriguez,Masculino,54.1341,Puebla,6564.4079,3335.8529,9900.2608,Agosto,Becario
+N-735,Carlos Sanchez,Masculino,29.245,Guerrero,10526.1252,2178.8024,12704.9276,Agosto,Becario
+N-736,Alejandro Ramirez,Femenino,22.3119,Guerrero,22325.7397,4746.0424,27071.782099999997,Agosto,Becario
+N-737,Javier Lopez,Femenino,25.4991,Sonora,12201.1825,9666.7382,21867.920700000002,Agosto,Tiempo Completo
+N-738,Javier Rodriguez,Masculino,55.2788,Guerrero,23159.5077,220.2355,23379.743199999997,Agosto,Tiempo Completo
+N-739,Alejandro Sanchez,Masculino,63.8273,Michoacán,14000.613,3412.5939,17413.206899999997,Agosto,Tiempo Completo
+N-740,Maria Garcia,Masculino,50.8278,Michoacán,11628.7668,2464.2019,14092.9687,Agosto,Becario
+N-741,Daniela Martinez,Femenino,47.3181,Ciudad de México,22291.0825,8162.9195,30454.002,Agosto,Por Hora
+N-742,Maria Perez,Femenino,62.116,Puebla,17412.9031,653.424,18066.3271,Agosto,Tiempo Completo
+N-743,Daniela Sanchez,Masculino,35.2372,Tamaulipas,19747.6405,4793.4999,24541.1404,Agosto,Por Hora
+N-744,Alejandro Hernandez,Masculino,24.7121,Puebla,20833.2364,453.5642,21286.800600000002,Agosto,Por Hora
+N-745,Miguel Ramirez,Femenino,19.4834,Guerrero,10146.3113,3786.5854,13932.8967,Agosto,Por Hora
+N-746,Carlos Gonzalez,Femenino,18.3511,Puebla,10237.1895,9035.7471,19272.9366,Agosto,Becario
+N-747,Miguel Perez,Masculino,53.4264,Michoacán,19397.8776,646.6738,20044.5514,Agosto,Por Hora
+N-748,Carlos Gonzalez,Masculino,39.9317,Veracruz,10883.9689,2166.1344,13050.103299999999,Agosto,Tiempo Completo
+N-749,Javier Hernandez,Femenino,45.5802,Nuevo León,20331.2872,7970.1177,28301.404899999998,Agosto,Por Hora
+N-750,Maria Lopez,Masculino,61.5774,Guerrero,19146.2167,5114.1627,24260.3794,Agosto,Tiempo Completo
+N-751,Javier Rodriguez,Masculino,26.314,Tamaulipas,23081.0349,8516.3694,31597.4043,Agosto,Becario
+N-752,Mariana Hernandez,Femenino,40.4514,Jalisco,8271.9622,9413.3411,17685.3033,Agosto,Por Hora
+N-753,Claudia Martinez,Femenino,48.8889,Chihuahua,22507.1574,3986.8808,26494.0382,Agosto,Becario
+N-754,Sofia Martinez,Masculino,43.8948,Nuevo León,10585.8928,6765.7676,17351.6604,Agosto,Becario
+N-755,Javier Sanchez,Masculino,22.5591,Chihuahua,14088.9783,846.7348,14935.7131,Agosto,Por Hora
+N-756,Daniela Hernandez,Masculino,22.4154,Jalisco,9863.1417,8546.2709,18409.4126,Agosto,Por Hora
+N-757,Daniela Martinez,Femenino,25.8372,Ciudad de México,15502.6841,288.2791,15790.9632,Agosto,Por Hora
+N-758,Maria Ramirez,Femenino,53.6787,Sonora,22823.6865,9016.6568,31840.3433,Agosto,Por Hora
+N-759,Maria Flores,Femenino,64.9986,Michoacán,21039.4164,8365.612,29405.028399999996,Agosto,Tiempo Completo
+N-760,Rodrigo Perez,Masculino,50.8021,Tamaulipas,23708.1716,6921.2183,30629.389900000002,Agosto,Por Hora
+N-761,Mariana Lopez,Masculino,57.0409,Chihuahua,19385.1025,9631.1409,29016.2434,Agosto,Por Hora
+N-762,Maria Flores,Femenino,27.3054,Chihuahua,15465.3994,8397.9253,23863.3247,Agosto,Becario
+N-763,Claudia Perez,Femenino,32.3189,Sonora,12042.9705,7723.0021,19765.9726,Agosto,Tiempo Completo
+N-764,Alejandro Garcia,Masculino,37.0316,Veracruz,9874.3451,8703.1153,18577.4604,Agosto,Becario
+N-765,Rodrigo Rodriguez,Masculino,40.1088,Jalisco,7644.6978,679.9539,8324.6517,Agosto,Por Hora
+N-766,Sofia Hernandez,Femenino,64.9645,Sonora,16668.8555,6348.7629,23017.6184,Agosto,Becario
+N-767,Rodrigo Flores,Femenino,57.0615,Nuevo León,22727.8278,8436.1617,31163.9895,Agosto,Por Hora
+N-768,Javier Flores,Femenino,64.7358,Veracruz,12792.3375,4360.6686,17153.0061,Agosto,Tiempo Completo
+N-769,Miguel Ramirez,Femenino,29.6593,Ciudad de México,8295.4008,8866.4202,17161.821,Agosto,Becario
+N-770,Maria Gonzalez,Masculino,22.9378,Tamaulipas,6977.6023,4416.111,11393.7133,Agosto,Tiempo Completo
+N-771,Maria Ramirez,Femenino,44.8365,Veracruz,11241.6622,4434.5643,15676.2265,Agosto,Becario
+N-772,Claudia Rodriguez,Masculino,48.6232,Tamaulipas,17637.4924,1406.1241,19043.6165,Agosto,Becario
+N-773,Mariana Garcia,Femenino,18.7497,Nuevo León,18868.5577,1099.2206,19967.7783,Agosto,Becario
+N-774,Alejandro Rodriguez,Femenino,33.684,Veracruz,5452.8903,2074.247,7527.1373,Agosto,Tiempo Completo
+N-775,Rodrigo Rodriguez,Femenino,43.1168,Veracruz,7964.1791,737.3864,8701.5655,Agosto,Por Hora
+N-776,Daniela Lopez,Femenino,62.4424,Veracruz,23450.5061,4811.7637,28262.2698,Agosto,Becario
+N-777,Daniela Flores,Femenino,48.196,Guerrero,13028.1708,8908.4585,21936.6293,Agosto,Becario
+N-778,Mariana Flores,Masculino,21.5507,Veracruz,19080.1385,9855.4984,28935.6369,Agosto,Becario
+N-779,Javier Flores,Femenino,63.5173,Nuevo León,18309.9987,9903.8893,28213.888,Agosto,Tiempo Completo
+N-780,Mariana Ramirez,Masculino,55.6665,Sonora,5308.3813,9986.4073,15294.7886,Agosto,Becario
+N-781,Mariana Hernandez,Masculino,26.7887,Puebla,6530.2372,6614.9872,13145.2244,Agosto,Becario
+N-782,Sofia Perez,Femenino,33.4547,Puebla,11742.8264,4407.9681,16150.7945,Agosto,Por Hora
+N-783,Claudia Ramirez,Masculino,37.8724,Tamaulipas,24828.5139,582.5553,25411.0692,Agosto,Becario
+N-784,Miguel Ramirez,Femenino,22.7672,Ciudad de México,10175.2169,4633.9889,14809.2058,Agosto,Tiempo Completo
+N-785,Mariana Sanchez,Femenino,22.7952,Jalisco,21897.6682,9623.7734,31521.4416,Agosto,Tiempo Completo
+N-786,Daniela Ramirez,Masculino,35.5957,Puebla,5213.047,9319.1609,14532.207900000001,Agosto,Tiempo Completo
+N-787,Sofia Ramirez,Masculino,51.5095,Nuevo León,13365.1858,4341.5578,17706.743599999998,Agosto,Tiempo Completo
+N-788,Rodrigo Sanchez,Masculino,57.9964,Veracruz,13543.729,4855.3675,18399.0965,Agosto,Por Hora
+N-789,Maria Sanchez,Masculino,55.7858,Nuevo León,16425.5686,1014.4058,17439.9744,Agosto,Becario
+N-790,Maria Sanchez,Femenino,56.6158,Sonora,18035.0716,7141.2027,25176.274299999997,Agosto,Tiempo Completo
+N-791,Mariana Flores,Masculino,47.1049,Chihuahua,14062.762,5399.9475,19462.7095,Agosto,Becario
+N-792,Daniela Ramirez,Masculino,26.8897,Nuevo León,8532.8788,7361.0503,15893.929100000001,Agosto,Por Hora
+N-793,Carlos Lopez,Masculino,45.9468,Tamaulipas,6522.6528,4902.5052,11425.158,Agosto,Por Hora
+N-794,Carlos Gonzalez,Masculino,63.686,Chihuahua,9639.2582,3892.2404,13531.4986,Agosto,Tiempo Completo
+N-795,Maria Gonzalez,Femenino,29.2528,Sonora,16972.1721,4310.928,21283.1001,Agosto,Tiempo Completo
+N-796,Daniela Rodriguez,Femenino,35.1188,Puebla,13702.0361,8011.4574,21713.4935,Agosto,Tiempo Completo
+N-797,Sofia Lopez,Femenino,41.1568,Sonora,12048.7172,393.0961,12441.8133,Agosto,Tiempo Completo
+N-798,Mariana Perez,Masculino,26.9921,Guerrero,22810.1104,9696.1874,32506.2978,Agosto,Tiempo Completo
+N-799,Rodrigo Perez,Femenino,45.3299,Jalisco,9268.8494,1173.0958,10441.945199999998,Agosto,Por Hora
+N-800,Mariana Martinez,Femenino,25.8805,Puebla,21762.8359,7529.5808,29292.416699999998,Agosto,Por Hora
+N-801,Maria Sanchez,Masculino,23.161,Tamaulipas,20546.0771,7039.105,27585.182099999998,Septiembre,Tiempo Completo
+N-802,Claudia Flores,Masculino,41.1604,Sonora,13508.7986,7540.5629,21049.3615,Septiembre,Becario
+N-803,Rodrigo Lopez,Femenino,47.7053,Veracruz,8739.6216,3806.5462,12546.167800000001,Septiembre,Tiempo Completo
+N-804,Maria Lopez,Masculino,36.4877,Ciudad de México,11657.7894,9767.0645,21424.853900000002,Septiembre,Por Hora
+N-805,Rodrigo Perez,Masculino,21.2948,Tamaulipas,16702.3758,6289.929,22992.3048,Septiembre,Tiempo Completo
+N-806,Alejandro Sanchez,Masculino,60.0157,Michoacán,18583.5232,152.673,18736.1962,Septiembre,Tiempo Completo
+N-807,Maria Hernandez,Femenino,26.9745,Veracruz,8053.68,9544.0784,17597.7584,Septiembre,Tiempo Completo
+N-808,Claudia Hernandez,Femenino,34.9273,Tamaulipas,23280.3775,2743.3372,26023.714699999997,Septiembre,Por Hora
+N-809,Daniela Perez,Femenino,21.7035,Veracruz,16568.7616,7178.8404,23747.602000000003,Septiembre,Tiempo Completo
+N-810,Claudia Flores,Femenino,40.9391,Guerrero,17663.2559,5969.7731,23633.029000000002,Septiembre,Tiempo Completo
+N-811,Rodrigo Sanchez,Masculino,50.7731,Veracruz,21532.7634,3919.3871,25452.1505,Septiembre,Becario
+N-812,Maria Gonzalez,Femenino,55.8499,Guerrero,21111.1985,3897.1726,25008.371099999997,Septiembre,Por Hora
+N-813,Alejandro Ramirez,Masculino,41.1666,Ciudad de México,10670.9723,7941.6071,18612.5794,Septiembre,Becario
+N-814,Javier Flores,Femenino,34.226,Michoacán,18684.4039,1189.1073,19873.5112,Septiembre,Becario
+N-815,Alejandro Rodriguez,Masculino,51.1046,Veracruz,11690.829,2067.4941,13758.3231,Septiembre,Becario
+N-816,Claudia Flores,Masculino,44.0408,Tamaulipas,15008.2183,9334.6581,24342.8764,Septiembre,Por Hora
+N-817,Miguel Sanchez,Masculino,32.474,Tamaulipas,12500.0551,2892.3995,15392.4546,Septiembre,Becario
+N-818,Alejandro Flores,Masculino,46.4623,Michoacán,15460.6795,6416.5032,21877.1827,Septiembre,Por Hora
+N-819,Javier Garcia,Masculino,39.6493,Jalisco,20594.907,9716.6936,30311.600599999998,Septiembre,Por Hora
+N-820,Mariana Garcia,Femenino,61.86,Tamaulipas,23909.6965,4049.0666,27958.763099999996,Septiembre,Tiempo Completo
+N-821,Carlos Hernandez,Masculino,44.9463,Michoacán,8683.5147,9744.6216,18428.1363,Septiembre,Tiempo Completo
+N-822,Alejandro Flores,Femenino,44.5207,Sonora,9019.735,2843.1923,11862.927300000001,Septiembre,Por Hora
+N-823,Daniela Rodriguez,Femenino,31.2616,Jalisco,24602.6727,858.7725,25461.4452,Septiembre,Becario
+N-824,Maria Sanchez,Masculino,26.5229,Chihuahua,20133.244,4533.818,24667.061999999998,Septiembre,Becario
+N-825,Miguel Gonzalez,Femenino,22.0818,Veracruz,20131.7165,2723.2411,22854.957599999998,Septiembre,Por Hora
+N-826,Maria Sanchez,Masculino,26.0821,Nuevo León,6446.3009,8524.0256,14970.326500000001,Septiembre,Tiempo Completo
+N-827,Alejandro Ramirez,Femenino,31.769,Guerrero,20831.6619,3983.45,24815.1119,Septiembre,Por Hora
+N-828,Carlos Sanchez,Femenino,23.0905,Ciudad de México,11833.3099,9578.4221,21411.732,Septiembre,Tiempo Completo
+N-829,Rodrigo Flores,Masculino,48.5963,Ciudad de México,10960.5264,648.2997,11608.8261,Septiembre,Tiempo Completo
+N-830,Claudia Gonzalez,Masculino,52.5053,Sonora,10823.0749,9474.4197,20297.494599999998,Septiembre,Tiempo Completo
+N-831,Rodrigo Lopez,Femenino,22.4603,Chihuahua,22804.3331,8664.4351,31468.7682,Septiembre,Tiempo Completo
+N-832,Mariana Lopez,Femenino,60.9157,Michoacán,12817.6469,1688.0666,14505.7135,Septiembre,Tiempo Completo
+N-833,Alejandro Garcia,Femenino,50.9356,Ciudad de México,16331.8865,6206.2959,22538.1824,Septiembre,Por Hora
+N-834,Mariana Lopez,Masculino,28.7666,Chihuahua,6214.526,7587.1137,13801.6397,Septiembre,Becario
+N-835,Rodrigo Sanchez,Masculino,24.5093,Puebla,5828.8509,7198.3142,13027.1651,Septiembre,Becario
+N-836,Alejandro Perez,Femenino,22.611,Guerrero,11089.8844,4778.6022,15868.4866,Septiembre,Por Hora
+N-837,Maria Rodriguez,Masculino,56.86,Tamaulipas,18505.9341,3146.1155,21652.0496,Septiembre,Becario
+N-838,Javier Martinez,Femenino,55.6832,Puebla,23464.5008,1087.495,24551.9958,Septiembre,Tiempo Completo
+N-839,Alejandro Flores,Femenino,55.9921,Puebla,7500.1133,8582.0352,16082.1485,Septiembre,Tiempo Completo
+N-840,Maria Lopez,Masculino,59.7678,Guerrero,23255.0968,9085.0705,32340.1673,Septiembre,Tiempo Completo
+N-841,Alejandro Hernandez,Femenino,42.4881,Jalisco,19386.2275,4113.9305,23500.158000000003,Septiembre,Becario
+N-842,Alejandro Sanchez,Femenino,20.7056,Guerrero,22336.9173,6230.0859,28567.0032,Septiembre,Tiempo Completo
+N-843,Claudia Flores,Femenino,54.0792,Puebla,8758.7321,6401.2597,15159.9918,Septiembre,Por Hora
+N-844,Alejandro Garcia,Masculino,28.6236,Michoacán,10809.0962,7773.2879,18582.3841,Septiembre,Becario
+N-845,Rodrigo Ramirez,Masculino,56.3227,Tamaulipas,15621.1468,4194.8864,19816.0332,Septiembre,Becario
+N-846,Claudia Martinez,Masculino,48.0125,Nuevo León,10147.8241,1417.9521,11565.7762,Septiembre,Por Hora
+N-847,Maria Ramirez,Femenino,19.0357,Guerrero,24162.5923,8727.594,32890.1863,Septiembre,Tiempo Completo
+N-848,Maria Rodriguez,Masculino,60.9498,Chihuahua,14115.3567,6040.663,20156.0197,Septiembre,Tiempo Completo
+N-849,Alejandro Lopez,Femenino,55.7087,Nuevo León,22069.8714,3249.6291,25319.500500000002,Septiembre,Tiempo Completo
+N-850,Mariana Hernandez,Femenino,33.9964,Veracruz,20750.1966,4269.767,25019.9636,Septiembre,Por Hora
+N-851,Alejandro Hernandez,Femenino,23.5288,Sonora,18964.7759,7615.1859,26579.9618,Septiembre,Becario
+N-852,Claudia Garcia,Femenino,51.1151,Michoacán,9297.7778,9174.9603,18472.738100000002,Septiembre,Por Hora
+N-853,Mariana Martinez,Masculino,38.6389,Ciudad de México,19419.3988,1939.2222,21358.621,Septiembre,Becario
+N-854,Rodrigo Ramirez,Femenino,49.6639,Nuevo León,8537.3077,5565.5144,14102.8221,Septiembre,Por Hora
+N-855,Claudia Rodriguez,Femenino,47.7272,Ciudad de México,20187.3019,5107.9678,25295.269699999997,Septiembre,Becario
+N-856,Miguel Flores,Femenino,48.7814,Nuevo León,17806.2841,7406.9119,25213.196,Septiembre,Becario
+N-857,Miguel Hernandez,Femenino,44.675,Puebla,24311.5752,9930.9808,34242.556,Septiembre,Becario
+N-858,Alejandro Rodriguez,Masculino,26.6818,Guerrero,12799.6485,6503.0182,19302.6667,Septiembre,Becario
+N-859,Javier Hernandez,Femenino,25.3003,Ciudad de México,12105.9329,2984.417,15090.3499,Septiembre,Por Hora
+N-860,Maria Garcia,Masculino,34.5737,Michoacán,12654.015,5515.1461,18169.161099999998,Septiembre,Becario
+N-861,Rodrigo Lopez,Masculino,35.8962,Tamaulipas,14980.1114,9133.2536,24113.364999999998,Septiembre,Tiempo Completo
+N-862,Daniela Gonzalez,Femenino,31.2058,Tamaulipas,7923.7469,1432.5279,9356.2748,Septiembre,Tiempo Completo
+N-863,Sofia Lopez,Femenino,64.1998,Michoacán,14285.4907,2207.8981,16493.3888,Septiembre,Por Hora
+N-864,Daniela Gonzalez,Masculino,33.2433,Jalisco,21770.0828,1295.258,23065.3408,Septiembre,Tiempo Completo
+N-865,Sofia Hernandez,Femenino,37.9461,Tamaulipas,19178.3934,2274.9342,21453.3276,Septiembre,Tiempo Completo
+N-866,Alejandro Martinez,Masculino,39.234,Chihuahua,13459.2971,6202.7849,19662.082,Septiembre,Tiempo Completo
+N-867,Claudia Ramirez,Femenino,34.6372,Sonora,24254.3622,4149.7066,28404.0688,Septiembre,Por Hora
+N-868,Daniela Hernandez,Masculino,28.7183,Tamaulipas,6892.2333,1316.6655,8208.898799999999,Septiembre,Becario
+N-869,Rodrigo Lopez,Masculino,29.4016,Chihuahua,19832.8774,6260.3409,26093.2183,Septiembre,Por Hora
+N-870,Rodrigo Rodriguez,Femenino,19.7236,Chihuahua,16292.258,2286.7244,18578.9824,Septiembre,Tiempo Completo
+N-871,Claudia Perez,Masculino,51.3963,Jalisco,13351.0787,2857.3248,16208.4035,Septiembre,Becario
+N-872,Claudia Rodriguez,Masculino,32.5729,Tamaulipas,14362.7213,8084.6718,22447.3931,Septiembre,Por Hora
+N-873,Rodrigo Gonzalez,Femenino,55.3319,Puebla,12436.4955,9505.6177,21942.1132,Septiembre,Becario
+N-874,Claudia Sanchez,Masculino,48.5159,Puebla,24330.3099,3482.6126,27812.9225,Septiembre,Por Hora
+N-875,Alejandro Sanchez,Femenino,42.2014,Jalisco,5703.3919,4746.8184,10450.210299999999,Septiembre,Tiempo Completo
+N-876,Rodrigo Gonzalez,Masculino,59.9273,Veracruz,11120.7303,8551.701,19672.431299999997,Septiembre,Por Hora
+N-877,Miguel Hernandez,Masculino,46.3218,Ciudad de México,17263.5965,6530.0634,23793.6599,Septiembre,Becario
+N-878,Daniela Gonzalez,Femenino,33.8157,Jalisco,19263.6544,441.3746,19705.029,Septiembre,Becario
+N-879,Daniela Perez,Femenino,27.6011,Puebla,24002.8163,9441.0267,33443.843,Septiembre,Becario
+N-880,Miguel Garcia,Femenino,55.65,Jalisco,18215.573,9010.6821,27226.255100000002,Septiembre,Por Hora
+N-881,Daniela Ramirez,Femenino,54.4619,Ciudad de México,17623.3034,3461.1748,21084.4782,Septiembre,Por Hora
+N-882,Sofia Flores,Femenino,28.4869,Sonora,16876.5846,8241.8352,25118.419799999996,Septiembre,Becario
+N-883,Miguel Garcia,Masculino,35.7137,Chihuahua,16517.3583,3819.3496,20336.7079,Septiembre,Por Hora
+N-884,Sofia Gonzalez,Masculino,43.7844,Ciudad de México,5667.8697,1474.9389,7142.8086,Septiembre,Por Hora
+N-885,Miguel Sanchez,Femenino,38.3713,Sonora,20185.6332,6784.2901,26969.923300000002,Septiembre,Tiempo Completo
+N-886,Javier Martinez,Femenino,44.1623,Jalisco,18256.6368,9194.9911,27451.6279,Septiembre,Tiempo Completo
+N-887,Mariana Gonzalez,Femenino,43.9489,Puebla,22808.0562,4069.7275,26877.7837,Septiembre,Becario
+N-888,Javier Ramirez,Masculino,32.4141,Sonora,14129.9737,386.9886,14516.962300000001,Septiembre,Por Hora
+N-889,Claudia Hernandez,Masculino,36.8316,Veracruz,5497.3925,5553.6653,11051.057799999999,Septiembre,Becario
+N-890,Maria Sanchez,Masculino,42.2362,Sonora,7061.5932,9888.8145,16950.4077,Septiembre,Por Hora
+N-891,Rodrigo Rodriguez,Femenino,22.2225,Veracruz,17358.0901,3862.3412,21220.4313,Septiembre,Becario
+N-892,Javier Martinez,Femenino,55.683,Puebla,11182.0358,158.0109,11340.046699999999,Septiembre,Becario
+N-893,Carlos Ramirez,Masculino,55.538,Tamaulipas,21702.6018,258.3745,21960.976300000002,Septiembre,Por Hora
+N-894,Javier Sanchez,Femenino,42.5803,Michoacán,5021.1834,1457.8702,6479.0536,Septiembre,Por Hora
+N-895,Daniela Garcia,Masculino,32.553,Chihuahua,13057.3525,401.7444,13459.0969,Septiembre,Tiempo Completo
+N-896,Maria Garcia,Masculino,29.9474,Ciudad de México,11763.7677,8094.7876,19858.5553,Septiembre,Por Hora
+N-897,Sofia Flores,Femenino,24.3266,Veracruz,17139.3324,6105.1955,23244.5279,Septiembre,Becario
+N-898,Maria Perez,Femenino,24.4083,Ciudad de México,12801.428,2772.9452,15574.3732,Septiembre,Tiempo Completo
+N-899,Maria Flores,Femenino,29.4682,Veracruz,8548.4976,9000.0935,17548.5911,Septiembre,Por Hora
+N-900,Alejandro Rodriguez,Femenino,21.5435,Michoacán,10132.3449,6349.0673,16481.4122,Septiembre,Por Hora
+N-901,Rodrigo Ramirez,Femenino,24.6578,Chihuahua,7272.1812,1584.713,8856.8942,Octubre,Por Hora
+N-902,Carlos Martinez,Femenino,19.2094,Jalisco,22138.2576,8289.031,30427.2886,Octubre,Becario
+N-903,Javier Garcia,Femenino,49.8446,Puebla,16743.863,648.6548,17392.5178,Octubre,Becario
+N-904,Mariana Flores,Femenino,54.583,Michoacán,14473.5501,4373.0721,18846.6222,Octubre,Tiempo Completo
+N-905,Rodrigo Gonzalez,Femenino,32.9886,Sonora,16862.0961,7048.9335,23911.029599999998,Octubre,Tiempo Completo
+N-906,Alejandro Ramirez,Masculino,33.331,Tamaulipas,23117.8337,1077.4221,24195.2558,Octubre,Tiempo Completo
+N-907,Claudia Flores,Femenino,35.4864,Veracruz,8879.5832,5091.413,13970.996199999998,Octubre,Por Hora
+N-908,Sofia Martinez,Masculino,23.4538,Tamaulipas,13522.1531,994.5216,14516.6747,Octubre,Becario
+N-909,Javier Martinez,Masculino,30.5251,Nuevo León,10035.6601,8773.593,18809.2531,Octubre,Becario
+N-910,Javier Ramirez,Masculino,43.4148,Jalisco,24238.9784,1999.819,26238.7974,Octubre,Por Hora
+N-911,Alejandro Gonzalez,Masculino,25.9957,Sonora,7594.9173,2766.568,10361.4853,Octubre,Por Hora
+N-912,Daniela Garcia,Femenino,51.5088,Sonora,20457.4857,8042.4967,28499.9824,Octubre,Becario
+N-913,Claudia Gonzalez,Masculino,61.1813,Michoacán,22280.3789,2771.6862,25052.0651,Octubre,Por Hora
+N-914,Javier Flores,Masculino,33.0923,Nuevo León,6083.5249,1751.2286,7834.753500000001,Octubre,Becario
+N-915,Javier Gonzalez,Femenino,26.4579,Guerrero,10688.3073,6251.1653,16939.4726,Octubre,Por Hora
+N-916,Javier Gonzalez,Femenino,33.7969,Chihuahua,14311.6698,2076.6865,16388.3563,Octubre,Por Hora
+N-917,Daniela Hernandez,Femenino,46.2461,Michoacán,11315.1576,7616.7348,18931.8924,Octubre,Tiempo Completo
+N-918,Claudia Rodriguez,Femenino,18.5354,Ciudad de México,24545.2222,9180.0827,33725.3049,Octubre,Becario
+N-919,Claudia Flores,Masculino,52.7359,Jalisco,17189.7044,5383.0212,22572.725599999998,Octubre,Tiempo Completo
+N-920,Daniela Flores,Femenino,57.4565,Puebla,23449.7878,8360.5079,31810.2957,Octubre,Becario
+N-921,Mariana Gonzalez,Masculino,20.0538,Ciudad de México,14872.1794,8434.9382,23307.1176,Octubre,Becario
+N-922,Carlos Lopez,Masculino,62.8206,Nuevo León,17615.7248,7839.8826,25455.6074,Octubre,Por Hora
+N-923,Daniela Gonzalez,Masculino,32.3563,Jalisco,17090.3168,9518.8415,26609.158300000003,Octubre,Por Hora
+N-924,Carlos Gonzalez,Femenino,59.8803,Jalisco,18757.0306,5611.839,24368.869599999998,Octubre,Tiempo Completo
+N-925,Daniela Sanchez,Masculino,18.4855,Guerrero,24972.1053,6911.8354,31883.9407,Octubre,Tiempo Completo
+N-926,Rodrigo Rodriguez,Femenino,51.6861,Puebla,21492.3334,861.7157,22354.0491,Octubre,Tiempo Completo
+N-927,Alejandro Rodriguez,Femenino,27.441,Guerrero,21768.6423,4760.4054,26529.0477,Octubre,Por Hora
+N-928,Daniela Sanchez,Femenino,34.9935,Chihuahua,19547.7403,7531.8761,27079.616400000003,Octubre,Becario
+N-929,Claudia Rodriguez,Masculino,29.3879,Nuevo León,7451.9342,5308.791,12760.7252,Octubre,Tiempo Completo
+N-930,Miguel Sanchez,Femenino,25.7048,Tamaulipas,10526.8406,5807.8925,16334.7331,Octubre,Por Hora
+N-931,Miguel Garcia,Femenino,58.418,Guerrero,18655.2604,4270.1459,22925.4063,Octubre,Becario
+N-932,Rodrigo Rodriguez,Masculino,18.1499,Puebla,15993.0343,3861.2573,19854.2916,Octubre,Por Hora
+N-933,Mariana Rodriguez,Femenino,61.6792,Ciudad de México,10902.2625,6631.3087,17533.5712,Octubre,Tiempo Completo
+N-934,Alejandro Sanchez,Masculino,58.444,Nuevo León,9423.1691,1082.7742,10505.943299999999,Octubre,Por Hora
+N-935,Mariana Garcia,Femenino,63.8562,Michoacán,20949.2268,4902.643,25851.8698,Octubre,Becario
+N-936,Rodrigo Rodriguez,Femenino,32.3672,Guerrero,15126.1693,3350.6324,18476.8017,Octubre,Tiempo Completo
+N-937,Daniela Rodriguez,Masculino,55.7084,Michoacán,13945.3277,5701.4934,19646.8211,Octubre,Por Hora
+N-938,Maria Rodriguez,Masculino,57.1204,Michoacán,23068.9346,7990.4292,31059.3638,Octubre,Por Hora
+N-939,Sofia Rodriguez,Femenino,59.5465,Veracruz,6666.54,4968.6454,11635.1854,Octubre,Por Hora
+N-940,Miguel Rodriguez,Masculino,34.5126,Nuevo León,19471.431,2148.2394,21619.6704,Octubre,Becario
+N-941,Daniela Ramirez,Masculino,25.3604,Chihuahua,16759.3207,478.5049,17237.8256,Octubre,Becario
+N-942,Carlos Perez,Femenino,45.1217,Tamaulipas,14691.5331,6771.0383,21462.5714,Octubre,Becario
+N-943,Javier Flores,Masculino,62.6618,Sonora,9165.0592,9909.3531,19074.4123,Octubre,Becario
+N-944,Mariana Perez,Masculino,18.8226,Sonora,21198.9971,5300.9355,26499.9326,Octubre,Becario
+N-945,Claudia Ramirez,Masculino,38.3209,Jalisco,15456.1738,9118.6359,24574.809699999998,Octubre,Becario
+N-946,Rodrigo Gonzalez,Masculino,54.0128,Tamaulipas,24572.5961,9152.5383,33725.134399999995,Octubre,Tiempo Completo
+N-947,Rodrigo Martinez,Masculino,64.9896,Guerrero,20571.6623,327.9098,20899.5721,Octubre,Por Hora
+N-948,Claudia Garcia,Masculino,59.7242,Veracruz,15031.2339,7175.1491,22206.382999999998,Octubre,Becario
+N-949,Claudia Sanchez,Masculino,62.133,Nuevo León,6448.0723,5398.2635,11846.3358,Octubre,Tiempo Completo
+N-950,Miguel Ramirez,Masculino,63.2593,Nuevo León,20126.1285,2086.5499,22212.678399999997,Octubre,Por Hora
+N-951,Javier Hernandez,Masculino,55.369,Tamaulipas,6770.743,4915.426,11686.169000000002,Octubre,Por Hora
+N-952,Claudia Perez,Femenino,18.3813,Chihuahua,18095.2481,6854.6165,24949.8646,Octubre,Tiempo Completo
+N-953,Mariana Hernandez,Femenino,39.7585,Jalisco,9693.965,4047.4356,13741.4006,Octubre,Becario
+N-954,Daniela Ramirez,Masculino,25.1886,Michoacán,20343.9911,8684.7838,29028.774899999997,Octubre,Tiempo Completo
+N-955,Daniela Sanchez,Femenino,61.026,Veracruz,20422.5699,6136.2011,26558.771,Octubre,Por Hora
+N-956,Mariana Garcia,Masculino,37.9628,Chihuahua,13116.9842,1763.355,14880.3392,Octubre,Tiempo Completo
+N-957,Miguel Garcia,Masculino,63.7133,Guerrero,19224.6312,1930.3821,21155.0133,Octubre,Tiempo Completo
+N-958,Mariana Rodriguez,Masculino,31.4768,Ciudad de México,12879.7451,8196.1947,21075.9398,Octubre,Por Hora
+N-959,Daniela Sanchez,Femenino,25.4181,Veracruz,8469.8484,4289.8785,12759.726900000001,Octubre,Por Hora
+N-960,Miguel Martinez,Masculino,22.3376,Guerrero,17299.5284,8647.5661,25947.0945,Octubre,Por Hora
+N-961,Rodrigo Flores,Femenino,57.331,Guerrero,8745.1231,4995.8246,13740.9477,Octubre,Por Hora
+N-962,Carlos Gonzalez,Femenino,54.4251,Chihuahua,22638.7561,1561.0813,24199.8374,Octubre,Tiempo Completo
+N-963,Carlos Perez,Masculino,21.552,Puebla,22972.7802,8681.0832,31653.863400000002,Octubre,Tiempo Completo
+N-964,Mariana Ramirez,Femenino,49.7131,Sonora,8477.9349,2025.3578,10503.2927,Octubre,Tiempo Completo
+N-965,Claudia Garcia,Masculino,52.9027,Michoacán,17836.3001,6264.8966,24101.1967,Octubre,Por Hora
+N-966,Sofia Perez,Masculino,18.9616,Nuevo León,8612.7464,8243.4062,16856.1526,Octubre,Por Hora
+N-967,Claudia Sanchez,Masculino,38.0953,Sonora,13430.9739,2631.9468,16062.9207,Octubre,Becario
+N-968,Mariana Gonzalez,Masculino,59.3435,Michoacán,10656.0579,6473.289,17129.3469,Octubre,Becario
+N-969,Alejandro Martinez,Masculino,29.0904,Jalisco,24330.6434,7053.3768,31384.0202,Octubre,Tiempo Completo
+N-970,Carlos Perez,Masculino,34.3012,Chihuahua,12243.9763,7439.8273,19683.8036,Octubre,Por Hora
+N-971,Maria Garcia,Masculino,52.5804,Nuevo León,8120.7949,9848.0953,17968.8902,Octubre,Becario
+N-972,Daniela Gonzalez,Masculino,43.9302,Veracruz,23282.6464,2844.116,26126.7624,Octubre,Tiempo Completo
+N-973,Carlos Sanchez,Femenino,38.8503,Puebla,15976.6784,6241.2522,22217.9306,Octubre,Por Hora
+N-974,Alejandro Lopez,Femenino,60.8619,Jalisco,13361.7882,290.8418,13652.630000000001,Octubre,Becario
+N-975,Mariana Hernandez,Masculino,25.6278,Tamaulipas,22205.5857,39.849,22245.434699999998,Octubre,Por Hora
+N-976,Rodrigo Martinez,Masculino,33.5774,Veracruz,18039.6224,8081.197,26120.8194,Octubre,Por Hora
+N-977,Sofia Flores,Femenino,46.2117,Jalisco,7728.9766,9267.747,16996.723599999998,Octubre,Por Hora
+N-978,Mariana Garcia,Femenino,28.6897,Jalisco,11939.1616,5299.3497,17238.5113,Octubre,Por Hora
+N-979,Sofia Hernandez,Femenino,39.3744,Sonora,17048.2547,8249.1888,25297.4435,Octubre,Becario
+N-980,Daniela Sanchez,Masculino,64.4029,Sonora,6614.9464,6003.422,12618.3684,Octubre,Becario
+N-981,Rodrigo Lopez,Femenino,38.7612,Chihuahua,8831.1068,6963.2711,15794.3779,Octubre,Por Hora
+N-982,Miguel Rodriguez,Masculino,26.0637,Ciudad de México,17269.8211,1575.5836,18845.4047,Octubre,Por Hora
+N-983,Rodrigo Lopez,Masculino,37.5404,Nuevo León,7411.8183,2344.6374,9756.4557,Octubre,Becario
+N-984,Maria Gonzalez,Femenino,56.8809,Michoacán,11811.6486,5840.3604,17652.009,Octubre,Por Hora
+N-985,Daniela Perez,Femenino,58.9669,Nuevo León,17399.6333,102.3481,17501.9814,Octubre,Becario
+N-986,Alejandro Rodriguez,Femenino,26.0806,Nuevo León,7276.1344,6363.6668,13639.8012,Octubre,Por Hora
+N-987,Rodrigo Garcia,Femenino,29.8117,Ciudad de México,22484.727,4010.4632,26495.190199999997,Octubre,Por Hora
+N-988,Alejandro Garcia,Femenino,43.5315,Puebla,12748.5161,3732.3869,16480.903000000002,Octubre,Tiempo Completo
+N-989,Sofia Gonzalez,Femenino,57.9564,Veracruz,10467.8412,407.5499,10875.3911,Octubre,Por Hora
+N-990,Maria Hernandez,Femenino,43.0944,Michoacán,5442.0129,4322.9818,9764.9947,Octubre,Por Hora
+N-991,Mariana Martinez,Masculino,30.6158,Nuevo León,15224.4712,5921.1444,21145.6156,Octubre,Por Hora
+N-992,Daniela Gonzalez,Femenino,25.8639,Puebla,19557.2684,2297.2734,21854.5418,Octubre,Becario
+N-993,Alejandro Perez,Femenino,55.9525,Nuevo León,21489.3681,8490.8618,29980.2299,Octubre,Tiempo Completo
+N-994,Claudia Lopez,Femenino,29.4984,Tamaulipas,24525.9546,4261.8339,28787.788500000002,Octubre,Becario
+N-995,Javier Perez,Masculino,33.06,Puebla,21660.6414,618.415,22279.0564,Octubre,Tiempo Completo
+N-996,Rodrigo Lopez,Masculino,61.4735,Michoacán,11230.3229,4898.5054,16128.8283,Octubre,Tiempo Completo
+N-997,Javier Garcia,Femenino,42.6086,Ciudad de México,7691.7962,9127.9416,16819.7378,Octubre,Por Hora
+N-998,Rodrigo Martinez,Femenino,49.1141,Michoacán,9198.4214,5657.5444,14855.965799999998,Octubre,Becario
+N-999,Claudia Rodriguez,Femenino,19.4648,Veracruz,21537.0222,1718.3049,23255.3271,Octubre,Becario
+N-1000,Rodrigo Gonzalez,Femenino,30.8221,Ciudad de México,21784.8611,1819.7241,23604.585199999998,Octubre,Becario
+N-1001,Maria Hernandez,Femenino,53.1078,Veracruz,18173.7307,1768.9843,19942.715,Noviembre,Tiempo Completo
+N-1002,Mariana Rodriguez,Masculino,20.4493,Chihuahua,16685.5944,7428.2293,24113.8237,Noviembre,Por Hora
+N-1003,Javier Rodriguez,Masculino,56.1763,Sonora,17143.6355,6635.2669,23778.9024,Noviembre,Por Hora
+N-1004,Maria Hernandez,Femenino,35.0614,Chihuahua,15583.4316,3503.2023,19086.6339,Noviembre,Por Hora
+N-1005,Maria Gonzalez,Masculino,37.3749,Guerrero,23447.1256,6173.3919,29620.517499999998,Noviembre,Tiempo Completo
+N-1006,Carlos Rodriguez,Femenino,31.7049,Jalisco,8182.6316,6467.5719,14650.2035,Noviembre,Becario
+N-1007,Carlos Perez,Masculino,56.4534,Michoacán,22675.8688,1920.3171,24596.1859,Noviembre,Por Hora
+N-1008,Mariana Sanchez,Femenino,26.3725,Chihuahua,6663.6843,9866.4333,16530.1176,Noviembre,Tiempo Completo
+N-1009,Rodrigo Hernandez,Femenino,20.7192,Veracruz,5220.6437,79.5157,5300.1594,Noviembre,Tiempo Completo
+N-1010,Miguel Flores,Masculino,29.0929,Sonora,24483.1584,4754.4004,29237.5588,Noviembre,Becario
+N-1011,Alejandro Hernandez,Masculino,37.3253,Michoacán,21257.5662,7160.1442,28417.7104,Noviembre,Becario
+N-1012,Mariana Garcia,Femenino,22.9485,Chihuahua,9020.7695,9086.4291,18107.1986,Noviembre,Tiempo Completo
+N-1013,Sofia Gonzalez,Masculino,51.2595,Puebla,19196.5075,2363.7038,21560.2113,Noviembre,Tiempo Completo
+N-1014,Alejandro Martinez,Masculino,37.2303,Michoacán,14553.8948,3708.4491,18262.3439,Noviembre,Por Hora
+N-1015,Miguel Sanchez,Femenino,20.2558,Michoacán,9241.7138,7377.0196,16618.733399999997,Noviembre,Becario
+N-1016,Rodrigo Flores,Femenino,47.9807,Tamaulipas,15408.6864,2061.7267,17470.4131,Noviembre,Tiempo Completo
+N-1017,Mariana Perez,Masculino,46.1599,Guerrero,9116.7531,5730.9536,14847.706699999999,Noviembre,Becario
+N-1018,Carlos Perez,Femenino,29.4636,Guerrero,16133.4667,4139.2747,20272.7414,Noviembre,Por Hora
+N-1019,Javier Sanchez,Femenino,21.8903,Jalisco,12922.4136,5672.8625,18595.2761,Noviembre,Becario
+N-1020,Rodrigo Perez,Masculino,55.4119,Ciudad de México,5040.4076,2946.9694,7987.3769999999995,Noviembre,Tiempo Completo
+N-1021,Javier Garcia,Masculino,59.7056,Guerrero,20951.3436,2399.2603,23350.603900000002,Noviembre,Becario
+N-1022,Rodrigo Martinez,Femenino,47.7526,Michoacán,16882.4356,5844.215,22726.6506,Noviembre,Becario
+N-1023,Maria Lopez,Masculino,61.7854,Veracruz,12929.6915,6297.6865,19227.378,Noviembre,Becario
+N-1024,Rodrigo Sanchez,Masculino,21.3856,Sonora,10046.8172,8231.2976,18278.1148,Noviembre,Por Hora
+N-1025,Daniela Flores,Femenino,54.0708,Veracruz,20611.828,5013.8831,25625.7111,Noviembre,Tiempo Completo
+N-1026,Daniela Rodriguez,Masculino,30.5134,Guerrero,7585.9176,5981.2211,13567.1387,Noviembre,Becario
+N-1027,Sofia Flores,Masculino,62.107,Michoacán,9577.1614,9079.0304,18656.1918,Noviembre,Tiempo Completo
+N-1028,Alejandro Lopez,Femenino,26.934,Nuevo León,19254.3896,4281.9048,23536.2944,Noviembre,Por Hora
+N-1029,Mariana Hernandez,Femenino,24.6809,Chihuahua,18416.4447,7147.2399,25563.6846,Noviembre,Becario
+N-1030,Maria Sanchez,Masculino,40.8523,Michoacán,15642.498,9192.1826,24834.6806,Noviembre,Tiempo Completo
+N-1031,Mariana Flores,Masculino,42.1456,Michoacán,16930.3914,6100.1702,23030.5616,Noviembre,Tiempo Completo
+N-1032,Javier Flores,Femenino,63.0482,Veracruz,23342.0059,5798.2962,29140.3021,Noviembre,Becario
+N-1033,Sofia Hernandez,Femenino,22.5578,Guerrero,15934.3941,5005.4942,20939.8883,Noviembre,Por Hora
+N-1034,Alejandro Sanchez,Masculino,29.2541,Guerrero,9675.4106,8319.1756,17994.586199999998,Noviembre,Por Hora
+N-1035,Javier Sanchez,Masculino,58.417,Sonora,17174.7688,2946.0371,20120.805900000003,Noviembre,Tiempo Completo
+N-1036,Miguel Lopez,Femenino,43.7355,Jalisco,17362.3165,7823.1153,25185.431800000002,Noviembre,Tiempo Completo
+N-1037,Alejandro Gonzalez,Masculino,36.5317,Ciudad de México,15662.3358,6997.0921,22659.427900000002,Noviembre,Tiempo Completo
+N-1038,Alejandro Garcia,Femenino,23.6817,Puebla,23367.3504,8370.3537,31737.7041,Noviembre,Tiempo Completo
+N-1039,Maria Lopez,Femenino,35.7324,Ciudad de México,23497.156,470.9683,23968.1243,Noviembre,Tiempo Completo
+N-1040,Sofia Garcia,Femenino,46.9998,Ciudad de México,5819.0199,2469.6028,8288.6227,Noviembre,Por Hora
+N-1041,Javier Rodriguez,Femenino,38.1741,Guerrero,24535.4549,8213.6343,32749.089200000002,Noviembre,Tiempo Completo
+N-1042,Sofia Sanchez,Femenino,29.2874,Chihuahua,13060.7733,6228.835,19289.6083,Noviembre,Becario
+N-1043,Mariana Lopez,Femenino,25.7159,Ciudad de México,24524.9855,3784.6528,28309.6383,Noviembre,Por Hora
+N-1044,Daniela Martinez,Femenino,18.9636,Nuevo León,16443.3472,489.9024,16933.2496,Noviembre,Por Hora
+N-1045,Miguel Gonzalez,Femenino,57.6797,Puebla,9916.7319,289.5334,10206.265300000001,Noviembre,Tiempo Completo
+N-1046,Rodrigo Sanchez,Femenino,33.5998,Tamaulipas,7016.3922,5555.8639,12572.2561,Noviembre,Becario
+N-1047,Alejandro Hernandez,Femenino,51.5135,Veracruz,22060.491,2231.5822,24292.073200000003,Noviembre,Por Hora
+N-1048,Rodrigo Rodriguez,Masculino,56.185,Nuevo León,19752.1505,40.3423,19792.4928,Noviembre,Becario
+N-1049,Claudia Martinez,Masculino,27.4571,Ciudad de México,16315.385,1207.8849,17523.2699,Noviembre,Por Hora
+N-1050,Javier Lopez,Masculino,28.294,Guerrero,17989.5589,9262.629,27252.1879,Noviembre,Tiempo Completo
+N-1051,Claudia Martinez,Masculino,56.9709,Jalisco,22933.7721,6226.4164,29160.188499999997,Noviembre,Becario
+N-1052,Javier Garcia,Masculino,38.6908,Guerrero,23351.0683,3407.553,26758.6213,Noviembre,Por Hora
+N-1053,Alejandro Garcia,Femenino,18.1418,Veracruz,24355.3877,3055.6533,27411.040999999997,Noviembre,Tiempo Completo
+N-1054,Miguel Hernandez,Femenino,18.0568,Jalisco,6238.6904,8309.8969,14548.5873,Noviembre,Tiempo Completo
+N-1055,Javier Hernandez,Masculino,62.1265,Michoacán,17844.6327,9184.114,27028.746699999996,Noviembre,Tiempo Completo
+N-1056,Claudia Martinez,Femenino,22.4383,Ciudad de México,5406.5109,5572.2099,10978.7208,Noviembre,Becario
+N-1057,Javier Flores,Masculino,42.8456,Ciudad de México,6751.2323,7065.824,13817.0563,Noviembre,Becario
+N-1058,Rodrigo Lopez,Femenino,26.1061,Guerrero,20058.7451,3532.1882,23590.9333,Noviembre,Por Hora
+N-1059,Maria Hernandez,Femenino,23.795,Tamaulipas,20151.4185,6295.9122,26447.3307,Noviembre,Tiempo Completo
+N-1060,Javier Ramirez,Femenino,39.3521,Michoacán,15334.9595,5056.7956,20391.755100000002,Noviembre,Tiempo Completo
+N-1061,Miguel Rodriguez,Femenino,58.3374,Veracruz,24507.9122,6131.8828,30639.795,Noviembre,Tiempo Completo
+N-1062,Daniela Lopez,Masculino,27.2691,Puebla,14461.0386,340.8474,14801.886,Noviembre,Por Hora
+N-1063,Daniela Perez,Femenino,49.5359,Jalisco,24395.1735,8334.1503,32729.3238,Noviembre,Por Hora
+N-1064,Miguel Sanchez,Masculino,60.8601,Tamaulipas,21667.0512,6486.0742,28153.1254,Noviembre,Tiempo Completo
+N-1065,Carlos Sanchez,Femenino,54.4739,Michoacán,15429.5366,9630.4487,25059.9853,Noviembre,Becario
+N-1066,Alejandro Perez,Masculino,18.8902,Nuevo León,14873.774,1695.7578,16569.5318,Noviembre,Tiempo Completo
+N-1067,Maria Rodriguez,Masculino,48.0215,Guerrero,18695.298,1344.317,20039.614999999998,Noviembre,Becario
+N-1068,Javier Lopez,Masculino,41.5438,Puebla,23596.3081,1063.1687,24659.476799999997,Noviembre,Por Hora
+N-1069,Miguel Flores,Femenino,36.6106,Jalisco,15521.1979,9123.1048,24644.3027,Noviembre,Por Hora
+N-1070,Carlos Lopez,Femenino,50.1377,Michoacán,13476.7074,7772.4464,21249.1538,Noviembre,Tiempo Completo
+N-1071,Miguel Sanchez,Femenino,56.0543,Ciudad de México,14726.745,620.6815,15347.426500000001,Noviembre,Tiempo Completo
+N-1072,Claudia Lopez,Masculino,20.7821,Veracruz,9014.9848,8959.3562,17974.341,Noviembre,Becario
+N-1073,Rodrigo Martinez,Femenino,36.5755,Veracruz,12245.8651,1820.9256,14066.790700000001,Noviembre,Becario
+N-1074,Claudia Sanchez,Masculino,42.8513,Sonora,23223.7458,5700.8695,28924.6153,Noviembre,Becario
+N-1075,Sofia Martinez,Femenino,63.4589,Ciudad de México,9896.2303,5913.0414,15809.2717,Noviembre,Becario
+N-1076,Javier Martinez,Masculino,33.4157,Nuevo León,16490.7871,223.1594,16713.946500000002,Noviembre,Por Hora
+N-1077,Claudia Hernandez,Masculino,52.5154,Jalisco,19747.2028,8290.8267,28038.029499999997,Noviembre,Becario
+N-1078,Daniela Hernandez,Masculino,59.9782,Guerrero,10437.5434,6151.6552,16589.1986,Noviembre,Por Hora
+N-1079,Alejandro Garcia,Femenino,57.9582,Nuevo León,20214.7393,5933.7404,26148.4797,Noviembre,Por Hora
+N-1080,Carlos Sanchez,Femenino,36.1245,Tamaulipas,18544.0275,7219.3387,25763.3662,Noviembre,Por Hora
+N-1081,Javier Rodriguez,Femenino,39.9951,Sonora,11738.3513,5591.9863,17330.3376,Noviembre,Por Hora
+N-1082,Alejandro Ramirez,Femenino,30.0146,Puebla,12931.3983,8239.7224,21171.1207,Noviembre,Becario
+N-1083,Claudia Martinez,Femenino,39.3575,Ciudad de México,20658.6648,5155.3532,25814.017999999996,Noviembre,Por Hora
+N-1084,Carlos Perez,Masculino,54.609,Jalisco,14872.6736,4539.9288,19412.6024,Noviembre,Por Hora
+N-1085,Alejandro Gonzalez,Femenino,53.144,Sonora,9213.7537,7341.5231,16555.2768,Noviembre,Tiempo Completo
+N-1086,Maria Ramirez,Masculino,63.7193,Michoacán,13132.6911,4145.7405,17278.4316,Noviembre,Tiempo Completo
+N-1087,Rodrigo Ramirez,Masculino,18.9812,Ciudad de México,20576.1218,285.1951,20861.3169,Noviembre,Por Hora
+N-1088,Rodrigo Rodriguez,Femenino,36.3792,Guerrero,16157.9353,7445.4584,23603.3937,Noviembre,Tiempo Completo
+N-1089,Maria Garcia,Masculino,31.9646,Ciudad de México,24503.6883,1521.7924,26025.4807,Noviembre,Becario
+N-1090,Rodrigo Garcia,Masculino,30.167,Michoacán,16107.9942,9873.7905,25981.784699999997,Noviembre,Por Hora
+N-1091,Daniela Ramirez,Femenino,47.4544,Chihuahua,7020.7398,7917.5877,14938.3275,Noviembre,Becario
+N-1092,Alejandro Ramirez,Masculino,18.0715,Ciudad de México,19751.8109,5363.4275,25115.238400000002,Noviembre,Tiempo Completo
+N-1093,Carlos Ramirez,Masculino,47.0755,Sonora,14018.9483,6948.8129,20967.7612,Noviembre,Tiempo Completo
+N-1094,Claudia Ramirez,Masculino,49.9791,Nuevo León,19244.8695,7678.2862,26923.1557,Noviembre,Becario
+N-1095,Maria Martinez,Femenino,56.3459,Sonora,24514.9444,9117.6517,33632.5961,Noviembre,Tiempo Completo
+N-1096,Miguel Perez,Masculino,48.4767,Veracruz,23042.1797,106.6493,23148.829,Noviembre,Tiempo Completo
+N-1097,Alejandro Perez,Femenino,41.8618,Veracruz,6582.0489,9622.1014,16204.1503,Noviembre,Por Hora
+N-1098,Javier Ramirez,Masculino,38.2799,Tamaulipas,9765.5302,3098.6815,12864.2117,Noviembre,Por Hora
+N-1099,Miguel Hernandez,Masculino,31.4832,Nuevo León,24329.7545,4044.3772,28374.131699999998,Noviembre,Becario
+N-1100,Mariana Perez,Femenino,23.5943,Michoacán,24886.9,1817.7573,26704.657300000003,Noviembre,Becario
+N-1101,Alejandro Garcia,Masculino,48.838,Tamaulipas,8837.1958,9812.5638,18649.759599999998,Diciembre,Becario
+N-1102,Alejandro Flores,Masculino,20.8401,Jalisco,6735.8241,145.3163,6881.1404,Diciembre,Por Hora
+N-1103,Rodrigo Flores,Femenino,50.6571,Nuevo León,13764.2125,4669.1195,18433.332,Diciembre,Tiempo Completo
+N-1104,Daniela Hernandez,Femenino,51.7069,Sonora,24014.4919,6207.3272,30221.8191,Diciembre,Becario
+N-1105,Sofia Perez,Femenino,60.4548,Nuevo León,6251.3886,9017.5398,15268.9284,Diciembre,Por Hora
+N-1106,Miguel Gonzalez,Femenino,25.7858,Veracruz,13126.4954,7660.3673,20786.862699999998,Diciembre,Becario
+N-1107,Maria Rodriguez,Femenino,45.7331,Sonora,15755.051,9421.3931,25176.4441,Diciembre,Tiempo Completo
+N-1108,Carlos Martinez,Masculino,45.8221,Sonora,5635.2888,9794.1983,15429.4871,Diciembre,Por Hora
+N-1109,Sofia Sanchez,Femenino,38.5033,Jalisco,14463.136,3192.7462,17655.8822,Diciembre,Becario
+N-1110,Maria Perez,Masculino,58.6026,Veracruz,7534.1281,9280.6551,16814.783199999998,Diciembre,Becario
+N-1111,Javier Hernandez,Masculino,34.9357,Veracruz,8963.5595,5316.2871,14279.846599999999,Diciembre,Por Hora
+N-1112,Carlos Flores,Femenino,36.3974,Guerrero,6550.9623,4645.3063,11196.2686,Diciembre,Por Hora
+N-1113,Javier Flores,Masculino,45.6642,Guerrero,5292.1081,8197.4233,13489.5314,Diciembre,Por Hora
+N-1114,Carlos Ramirez,Masculino,44.4278,Nuevo León,10860.5694,7747.8278,18608.3972,Diciembre,Tiempo Completo
+N-1115,Miguel Hernandez,Femenino,59.9037,Jalisco,14833.3048,9386.1694,24219.4742,Diciembre,Tiempo Completo
+N-1116,Miguel Lopez,Femenino,61.8936,Tamaulipas,17199.2137,5229.4275,22428.6412,Diciembre,Tiempo Completo
+N-1117,Miguel Martinez,Femenino,30.5222,Michoacán,16708.0256,2451.8381,19159.8637,Diciembre,Becario
+N-1118,Sofia Martinez,Femenino,55.4031,Tamaulipas,19915.538,6264.7421,26180.2801,Diciembre,Por Hora
+N-1119,Alejandro Lopez,Femenino,33.8551,Chihuahua,14886.6417,3508.1679,18394.8096,Diciembre,Becario
+N-1120,Sofia Rodriguez,Femenino,57.431,Nuevo León,20242.4972,5705.7973,25948.294500000004,Diciembre,Tiempo Completo
+N-1121,Carlos Sanchez,Masculino,37.0218,Sonora,22660.8712,9501.9993,32162.8705,Diciembre,Tiempo Completo
+N-1122,Sofia Hernandez,Masculino,48.6788,Ciudad de México,7649.9471,19.0513,7668.9984,Diciembre,Por Hora
+N-1123,Maria Ramirez,Masculino,63.4058,Michoacán,22422.781,3367.0152,25789.796199999997,Diciembre,Becario
+N-1124,Maria Gonzalez,Femenino,18.108,Sonora,20574.1969,8790.0454,29364.242299999998,Diciembre,Por Hora
+N-1125,Javier Martinez,Femenino,39.0204,Sonora,12519.0999,7588.7017,20107.8016,Diciembre,Becario
+N-1126,Alejandro Rodriguez,Masculino,63.6631,Chihuahua,12117.7499,8756.2897,20874.0396,Diciembre,Tiempo Completo
+N-1127,Claudia Rodriguez,Femenino,29.8973,Jalisco,21685.7849,2969.3326,24655.1175,Diciembre,Tiempo Completo
+N-1128,Mariana Flores,Femenino,53.1048,Sonora,23454.2587,1017.0711,24471.3298,Diciembre,Tiempo Completo
+N-1129,Claudia Ramirez,Masculino,39.5189,Chihuahua,22300.7267,5424.0746,27724.8013,Diciembre,Becario
+N-1130,Sofia Ramirez,Masculino,64.405,Chihuahua,20863.5715,9119.5951,29983.166599999997,Diciembre,Por Hora
+N-1131,Javier Rodriguez,Masculino,42.4531,Guerrero,5990.47,4789.5254,10779.9954,Diciembre,Becario
+N-1132,Daniela Perez,Femenino,36.3007,Tamaulipas,22015.0653,691.5785,22706.643799999998,Diciembre,Becario
+N-1133,Javier Gonzalez,Femenino,54.8874,Puebla,15322.1226,5763.3919,21085.5145,Diciembre,Tiempo Completo
+N-1134,Mariana Lopez,Femenino,38.3452,Tamaulipas,24692.7352,5882.608,30575.3432,Diciembre,Por Hora
+N-1135,Claudia Garcia,Masculino,18.4045,Tamaulipas,19858.3242,1931.0452,21789.3694,Diciembre,Becario
+N-1136,Javier Rodriguez,Masculino,51.3922,Puebla,17281.5135,9106.0333,26387.5468,Diciembre,Becario
+N-1137,Claudia Garcia,Masculino,49.9896,Chihuahua,16965.8784,8011.5902,24977.4686,Diciembre,Becario
+N-1138,Miguel Garcia,Masculino,18.1061,Ciudad de México,17639.4486,9144.839,26784.2876,Diciembre,Becario
+N-1139,Sofia Flores,Masculino,28.145,Tamaulipas,19420.2689,6176.9162,25597.1851,Diciembre,Tiempo Completo
+N-1140,Javier Hernandez,Masculino,47.6276,Chihuahua,10834.573,4306.6668,15141.2398,Diciembre,Becario
+N-1141,Miguel Hernandez,Masculino,59.7022,Tamaulipas,24767.0229,8437.1703,33204.1932,Diciembre,Tiempo Completo
+N-1142,Claudia Ramirez,Femenino,21.3,Guerrero,19069.8292,6397.444,25467.2732,Diciembre,Tiempo Completo
+N-1143,Rodrigo Garcia,Masculino,30.1067,Guerrero,9922.3229,6209.4,16131.722899999999,Diciembre,Becario
+N-1144,Daniela Hernandez,Masculino,63.0898,Jalisco,24887.206,9441.6653,34328.8713,Diciembre,Becario
+N-1145,Miguel Flores,Masculino,32.2524,Ciudad de México,20748.9656,1816.9049,22565.8705,Diciembre,Tiempo Completo
+N-1146,Alejandro Flores,Masculino,46.5908,Veracruz,20801.1229,8272.8696,29073.9925,Diciembre,Becario
+N-1147,Maria Garcia,Femenino,25.3446,Ciudad de México,12570.4785,2947.7441,15518.2226,Diciembre,Por Hora
+N-1148,Daniela Lopez,Masculino,50.5727,Guerrero,24363.5765,2628.9118,26992.488299999997,Diciembre,Becario
+N-1149,Rodrigo Sanchez,Masculino,31.9004,Guerrero,11711.0465,4145.9357,15856.9822,Diciembre,Tiempo Completo
+N-1150,Miguel Martinez,Femenino,37.8092,Ciudad de México,19451.7035,3893.7508,23345.454299999998,Diciembre,Por Hora
+N-1151,Miguel Martinez,Masculino,50.8154,Tamaulipas,11111.6191,4683.7468,15795.3659,Diciembre,Por Hora
+N-1152,Carlos Garcia,Femenino,48.5971,Ciudad de México,16735.9606,2950.1003,19686.060899999997,Diciembre,Por Hora
+N-1153,Miguel Perez,Femenino,46.9708,Guerrero,14102.1661,7163.81,21265.9761,Diciembre,Becario
+N-1154,Javier Perez,Masculino,63.3947,Ciudad de México,20807.2007,292.6458,21099.8465,Diciembre,Por Hora
+N-1155,Mariana Garcia,Masculino,49.4246,Chihuahua,17506.8025,2337.6747,19844.4772,Diciembre,Tiempo Completo
+N-1156,Miguel Perez,Masculino,56.0642,Veracruz,11830.1218,2715.7027,14545.8245,Diciembre,Becario
+N-1157,Sofia Gonzalez,Femenino,38.1699,Michoacán,10816.3009,445.9802,11262.2811,Diciembre,Tiempo Completo
+N-1158,Sofia Perez,Masculino,42.0699,Tamaulipas,20126.9511,117.9939,20244.945,Diciembre,Tiempo Completo
+N-1159,Rodrigo Ramirez,Femenino,47.8158,Jalisco,23741.9565,3365.0319,27106.988400000002,Diciembre,Becario
+N-1160,Daniela Rodriguez,Masculino,56.086,Tamaulipas,14181.6455,3016.6,17198.2455,Diciembre,Becario
+N-1161,Javier Flores,Masculino,32.5374,Guerrero,11669.2079,1072.8444,12742.0523,Diciembre,Tiempo Completo
+N-1162,Alejandro Martinez,Femenino,40.8133,Puebla,18913.0549,8226.3066,27139.3615,Diciembre,Becario
+N-1163,Miguel Gonzalez,Masculino,52.9015,Ciudad de México,7886.2657,3923.0573,11809.323,Diciembre,Becario
+N-1164,Javier Sanchez,Masculino,63.2879,Veracruz,20527.1446,9342.4865,29869.6311,Diciembre,Por Hora
+N-1165,Carlos Rodriguez,Femenino,30.4231,Sonora,15822.974,7280.6275,23103.6015,Diciembre,Tiempo Completo
+N-1166,Alejandro Garcia,Masculino,52.0364,Ciudad de México,12966.1759,6827.4876,19793.663500000002,Diciembre,Tiempo Completo
+N-1167,Javier Perez,Femenino,41.9031,Guerrero,7529.9979,6742.8492,14272.847099999999,Diciembre,Becario
+N-1168,Rodrigo Lopez,Masculino,47.18,Michoacán,23078.9858,4774.7216,27853.7074,Diciembre,Becario
+N-1169,Mariana Garcia,Masculino,23.2543,Tamaulipas,19971.9488,4899.3818,24871.330599999998,Diciembre,Becario
+N-1170,Alejandro Martinez,Masculino,47.0042,Michoacán,7657.9803,3707.4125,11365.3928,Diciembre,Tiempo Completo
+N-1171,Javier Garcia,Femenino,33.2422,Sonora,11014.3063,5447.2811,16461.5874,Diciembre,Por Hora
+N-1172,Javier Martinez,Masculino,26.1186,Jalisco,11773.3484,792.8101,12566.158500000001,Diciembre,Tiempo Completo
+N-1173,Mariana Perez,Masculino,41.4717,Michoacán,21652.5029,5316.7483,26969.2512,Diciembre,Becario
+N-1174,Javier Martinez,Femenino,18.5592,Sonora,12737.7483,1670.7283,14408.4766,Diciembre,Por Hora
+N-1175,Maria Gonzalez,Masculino,45.6008,Veracruz,15295.3741,958.8842,16254.258300000001,Diciembre,Tiempo Completo
+N-1176,Carlos Hernandez,Masculino,24.0104,Michoacán,5237.7001,3483.3222,8721.0223,Diciembre,Por Hora
+N-1177,Mariana Martinez,Masculino,38.5321,Ciudad de México,6077.3402,5284.2302,11361.5704,Diciembre,Tiempo Completo
+N-1178,Sofia Garcia,Masculino,34.1427,Nuevo León,23842.2757,2325.3304,26167.606099999997,Diciembre,Tiempo Completo
+N-1179,Carlos Garcia,Masculino,27.2753,Tamaulipas,20823.6081,5714.8373,26538.4454,Diciembre,Becario
+N-1180,Javier Ramirez,Femenino,61.0832,Ciudad de México,10417.0323,3249.8127,13666.845000000001,Diciembre,Tiempo Completo
+N-1181,Daniela Flores,Femenino,51.0983,Veracruz,19670.9787,4251.3952,23922.3739,Diciembre,Becario
+N-1182,Rodrigo Rodriguez,Masculino,44.1634,Ciudad de México,17669.0583,3745.051,21414.1093,Diciembre,Becario
+N-1183,Miguel Perez,Masculino,59.845,Tamaulipas,24528.5392,6899.0948,31427.634,Diciembre,Tiempo Completo
+N-1184,Sofia Rodriguez,Masculino,48.6629,Tamaulipas,13226.7422,15.787,13242.5292,Diciembre,Becario
+N-1185,Mariana Perez,Femenino,45.1262,Chihuahua,9196.4224,6890.1346,16086.557,Diciembre,Tiempo Completo
+N-1186,Alejandro Sanchez,Masculino,56.1364,Jalisco,6431.2342,2018.2045,8449.4387,Diciembre,Becario
+N-1187,Sofia Hernandez,Masculino,60.6902,Chihuahua,13256.0631,7637.5472,20893.6103,Diciembre,Tiempo Completo
+N-1188,Alejandro Sanchez,Masculino,44.8003,Guerrero,19685.4375,4760.0384,24445.4759,Diciembre,Becario
+N-1189,Daniela Flores,Femenino,36.7845,Veracruz,19109.9841,9319.5209,28429.505,Diciembre,Becario
+N-1190,Sofia Perez,Femenino,44.7242,Tamaulipas,7781.7063,5259.3213,13041.0276,Diciembre,Por Hora
+N-1191,Daniela Sanchez,Masculino,27.83,Guerrero,11223.5753,6118.456,17342.031300000002,Diciembre,Becario
+N-1192,Miguel Hernandez,Masculino,32.4909,Nuevo León,6727.6113,6601.6916,13329.302899999999,Diciembre,Tiempo Completo
+N-1193,Miguel Perez,Femenino,44.6942,Nuevo León,13941.3055,7039.4708,20980.7763,Diciembre,Becario
+N-1194,Javier Garcia,Masculino,54.6458,Guerrero,18485.0364,5066.1817,23551.218100000002,Diciembre,Por Hora
+N-1195,Miguel Perez,Femenino,60.974,Sonora,12545.4795,6760.0257,19305.5052,Diciembre,Por Hora
+N-1196,Carlos Perez,Femenino,18.5817,Tamaulipas,5766.9811,8699.3493,14466.330399999999,Diciembre,Becario
+N-1197,Alejandro Flores,Femenino,30.6163,Puebla,11677.0845,9443.5424,21120.626900000003,Diciembre,Becario
+N-1198,Claudia Rodriguez,Masculino,29.7505,Chihuahua,13021.5089,1606.0254,14627.534300000001,Diciembre,Por Hora
+N-1199,Rodrigo Rodriguez,Femenino,50.4148,Sonora,11515.5392,534.5279,12050.0671,Diciembre,Becario
+N-1200,Sofia Gonzalez,Masculino,63.2144,Sonora,18770.031,4578.7254,23348.7564,Diciembre,Por Hora
